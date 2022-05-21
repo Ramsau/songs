@@ -1,0 +1,69 @@
+{title: Voice Of Truth}
+{artist: Mark Hall, Steven Curtis Chapman}
+{key: D}
+{tempo: 82}
+{time: 4/4 }
+{ccli_license: 534848}
+{ccli: 4196620}
+{copyright: 2003 One Blue Petal Music | Sparrow Song | Be Essential Songs | My Refuge Music}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Verse 1}
+[D2(no3)]Oh what I would [D]do to have the [Bm7(4)]kind of faith it [Bm7]takes
+To climb out of this [G2(6)]boat I'm in [G2]        [C]onto the crash - [G]ing waves
+To [D2(no3)]step out of [D]my comfort zone [Bm7(4)] into the realm  [Bm7]of the unknown
+Where [G2(6)]Jesus is [G2] and He's [C]holding out His [G]hand
+
+{comment: Pre-Chorus 1}
+But the [A(4)]waves are call - [G]ing out my name and they [D2(no3)]laugh at me    [D]
+Re - [A(4)]minding me [G]of all the times I've [D2(no3)]tried before and [D]failed
+The [A(4)]waves, they keep [G]on telling me [G]time and [C]time a - [Bm]gain
+Boy, you'll [G2(no3)]never win, you'll [A(4)]never win
+
+{comment: Chorus}
+[D]     But the voice of [A(4)]truth tells me a diff'rent [Bm]story"
+The voice of [G2(no3)]truth says, "Do not be afraid"
+[D]     And the voice of [A/C#]truth says, "This is for My [Bm]glory"
+Out of all the voices [G2(no3)]calling out to me
+[Bm]    I will choose to [G2(no3)]listen and believe
+The voice     [D2(no3)] of truth
+
+
+{comment: Verse 2}
+[D2(no3)]Oh what I would [D]do to have the [Bm7(4)]kind of strength it [Bm7]takes
+To stand before a [G2(6)]giant    [G2]    with just a [C]sling and a [G]stone
+Sur - [D2(no3)]rounded by [D]the sound of a thousand [Bm7(4)]warriors [Bm7]
+Shaking in their [G2(6)]armor    [G2]    wishing they'd have [C]had the strength to [G]stand
+
+{comment: Pre-Chorus 2}
+But the [A(4)]giant's call - [G]ing out my name and he [D2(no3)]laughs at me    [D]
+Re - [A(4)]minding me [G]of all the times I've [D2(no3)]tried before and [D]failed
+The [A(4)]giant keeps [G]on telling me [G]time and [C]time a - [Bm]gain
+Boy, you'll [G2(no3)]never win, you'll [A(4)]never win    (To Chorus)
+
+{comment: Bridge}
+[Bb]    But the stone was just the [Csus]right size to put the [C]giant on the ground
+[Bb]    And the waves they don't seem [Csus]so high from on [C]top of them looking down
+[Bb]    I will soar with the wings of [Csus]eagles [C]when I stop and
+And [Gm7]listen to the sound of Jesus singing [A5]over [D]me    (To Chorus)
+
+{comment: Tag}
+[Bm]    I will choose to [G2(no3)]listen and believe
+The voice    [D2(no3)] of truth
+
+{comment: Interlude}
+[D2(no3)] (of truth)  [D]      [Bm7(4)]    [Bm7]
+I will [G2(6)]listen and [G2]believe, I will [A/G]listen and [G2]believe
+The voice    [D2(no3)] of truth [D]      [Bm7(4)]    [Bm7]
+I will [G2(6)]listen and [G2]believe 'cause [A/G]Jesus You [G2]are
+The voice     [D2(no3)] of [D]truth [Bm7(4)]      [Bm7]
+And I will [G2(6)]listen to [G2]You    [A/G]     [G2]You are
+
+{comment: Ending}
+[||:] [D2(no3)]   [D]      [|] [Bm7(4)]  [Bm7]    [|] [G2(6)]   [G2]      [|] [A/G]   [G2]      [:||]
+
+
+CCLI-Liednummer 4196620
+© 2003 One Blue Petal Music | Sparrow Song | Be Essential Songs | My Refuge Music
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

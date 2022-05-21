@@ -1,0 +1,49 @@
+{title: Von den Gipfeln der Welt}
+{artist: Laura Story, Jesse Reeves}
+{artist: Deutsch: Arne Kopfermann, Guido Baltes}
+{key: C}
+{time: 6/8}
+{tempo: 60}
+{ccli_license: 534848}
+{ccli: 5290941}
+{copyright: 2004 Laura Stories | sixsteps Music | worshiptogether.com songs}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Note}
+I4. Indescribable
+
+{comment: Vers 1}
+[Am]Von den Gipfeln der Welt zu den [Gsus/H]Tiefen des [C]Meers [C2]
+[Dm]Bezeugt deine [Dm7]Schöpfung wie herrlich du [Bb]bist
+[Am]Von den Farben im Herbst bis zum [Gsus]Frühlings[C]duft [C2]
+[Dm]Jedes Wesen [Dm7]bringt auf seine Art dir sein [Bb]Lied
+[F]Voller   [G]Staunen
+
+{comment: Chorus 1}
+[C]Unbeschreiblicher   [Gsus] Unbegreiflicher
+[F2]Du warfst die Sterne ins All und du kennst ihre [Am] Bahn
+[G]Du bist unglaublich [F] Gott
+[C]Allmächtiger   [Gsus]  und Ewiger
+[F2]Wir fallen staunend und ehrfürchtig nieder vor [Am] dir
+[G]Du bist unglaublich [F] Gott
+
+{comment: Vers 2}
+[Am]Wer weist selbst jedem Blitz jedem [Gsus]Donner den [C]Weg [C2]
+[Dm]Oder wer füllt im Himmel die [Dm7]Wolken mit [Bb]Schnee
+[Am]Gibt der Sonne ihr Licht ihre [Gsus]Wärme und [C]Kraft [C2]
+[Dm]Und verbirgt sie doch [Dm7]wieder im Schatten der [Bb]Nacht
+[F]Uner[G]forschlich
+
+{comment: Chorus 2}
+[C]Unbeschreiblicher  [Gsus] Unbegreiflicher
+[F]Du warfst die Sterne ins All und du kennst ihre [Am] Bahn
+[G]Du bist unglaublich [F]Gott
+[C]Unvergänglicher   [Gsus]Beständiger
+[F]Du kennst mein Herz und du liebst mich doch so wie ich [Am]bin
+[G]Du bist unglaublich [F]Gott
+
+
+CCLI-Liednummer 5290941
+© 2004 Laura Stories | sixsteps Music | worshiptogether.com songs
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

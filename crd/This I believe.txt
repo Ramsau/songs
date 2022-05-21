@@ -1,0 +1,44 @@
+{title: This I Believe (The Creed)}
+{artist: Ben Fielding, Matt Crocker}
+{key: G}
+{time: 4/4}
+{tempo: 72}
+{ccli_license: 534848}
+{ccli: 7018338}
+{copyright: 2014 Hillsong Music Publishing Australia}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Verse 1}
+[C] Our Father ever - [Em]last - [D]ing the all creat - [G/B]ing One
+[C]  God [Em]Al - [D]mighty  [G/B]
+[C] Through Your Holy [Em]Spir - [D]it conceiving Christ [G/B]the Son
+[C]  Jesus our [D]Saviour
+
+{comment: Chorus 1}
+[G] I believe in God our [Am]Father [C] I believe in Christ the [D]Son
+[Em] I believe in the Holy Spirit [C] our God is three in One
+[G] I believe in the resur - [Am]rection [C] that we will rise a - [D]gain
+[Em] For I believe in the [C]Name of [D]Jesus
+
+{comment: Verse 2}
+[C]Our judge and our de - [Em]fend - [D]er suffered and cru - [G/B]cified
+[C]Forgiveness [Em]is [D]in You [G/B]
+[C]Descended into [Em]dark - [D]ness You rose in glo - [G/B]rious life
+[C]Forever seat - [D]ed high
+
+{comment: Bridge}
+I be - [C]lieve [Em]in [D]You    [G/B]
+I be - [C]lieve You [Em]rose a - [D]gain    [G/B]
+I be - [C]lieve [Em]that [D]Jesus Christ is [G]Lord
+
+{comment: Chorus 2}
+[G] I believe in life e - [Am]ternal [C] I believe in the virgin [D]birth
+[Em] I believe in the saints' communion [C] and in Your holy Church
+[G] I believe in the resur - [Am]rection [C] when Jesus comes a - [D]gain
+[Em] For I believe in the [C]Name of [D]Jesus  [G]
+
+
+CCLI-Liednummer 7018338
+© 2014 Hillsong Music Publishing Australia
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

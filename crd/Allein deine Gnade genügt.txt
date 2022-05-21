@@ -1,0 +1,34 @@
+{title: Allein deine Gnade genügt}
+{artist: Martin Nystrom}
+{artist: Deutsch: Martin Pepper, Ken Janz}
+{key: C}
+{tempo: 80}
+{time: 4/4}
+{ccli_license: 534848}
+{ccli: 5282557}
+{copyright: 1991 Integrity's Hosanna! Music}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Chorus}
+Al - [C]lein Deine [Dm7]Gnade ge - [C2/E]nügt      [F/G]
+Die [C]in meiner [Dm7]Schwachheit [Fmaj9]Stärke mir [G]gibt
+Ich [F]geb Dir mein [C2/E]Leben und [Esus]was mich be - [Am]wegt [G]
+Al - [F]lein Deine [G]Gnade
+Ge - [Csus]nügt      [C]   [F/G]
+{comment: Vers 1}
+Ich [F]muss mich nicht [G/F]länger um [Em7]Liebe be - [Am]mühn
+Ich [F]ruh' im Ver - [G/F]trauen zu [Em7]Dir      [Am]
+Du [F]hast meine [G/F]Sünde ge - [Em7]tilgt durch Dein [Am]Blut
+Und [D]Gnade ist [D9]für mich ge - [F/G]nug      [G]
+
+{comment: Vers 2}
+Das [F]Blut Jesu [G/F]läßt mich ge - [Em7]recht vor Dir [Am]stehn
+Es [F]hat alle [G/F]Schuld ge - [Em7]sühnt      [Am]
+Die [F]Gnade hat [G/F]über Ge - [Em7]richt trium - [Am]phiert
+Und [D]nun bin ich [D9]frei in [F/G]Dir      [G]
+
+
+CCLI-Liednummer 5282557
+© 1991 Integrity's Hosanna! Music
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

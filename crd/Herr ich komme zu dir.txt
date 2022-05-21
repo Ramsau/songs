@@ -1,0 +1,30 @@
+{title: Herr ich komme zu dir}
+{artist: Albert Frey}
+{key: A}
+{time: 6/8}
+{ccli_license: 534848}
+{ccli: 4331784}
+{copyright: 1992 Immanuel Music, Ravensburg}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Vers}
+[A]Herr ich [D/A]komme zu [A]dir, und ich [D]steh’ vor dir [A]so wie ich [E]bin
+[A]Alles, [Bm7]was mich be - [A]wegt, lege [D]ich vor dich [Esus]hin      [E]
+[A]Herr, ich [D/A]komme zu [A]dir, und ich [D]schütte mein [A]Herz bei dir [E]aus
+[A]Was mich [Bm7]hindert, ganz [A]bei dir zu [D]sein, räume [Esus]aus      [E]
+
+{comment: Pre-Chorus}
+[F#m]Meine Sorgen sind [E]dir nicht verborgen, [D]du wirst sorgen für [E]mich
+[F#m]Voll Vertrauen will [E]ich auf dich schauen. [B]Herr ich baue auf [E]dich
+
+{comment: Chorus}
+Gib mir ein [D]neues, [A/C#]ungeteiltes [E]Herz
+[A/C#]Lege ein [D]neues [A/C#]Lied in meinen [E]Mund
+[A/C#]Fülle mich [D]neu mit [A/C#]deinem Geist, denn [Bm7]du
+Be - [D/E]wirkst dein [E]Lob in [A]mir
+
+
+CCLI-Liednummer 4331784
+© 1992 Immanuel Music, Ravensburg
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

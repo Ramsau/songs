@@ -1,0 +1,48 @@
+{title: My Lighthouse}
+{artist: Gareth Gilkeson, Chris Llewellyn}
+{key: G}
+{time: 4/4}
+{tempo: 110}
+{ccli_license: 534848}
+{ccli: 7002032}
+{copyright: 2013 Thankyou Music}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Verse 1}
+[G]In my wrestling and [C2]in my [G]doubts
+[C2]In my [G]failures You [Dsus]won't walk out
+[G]Your great love will [C2]lead me [G]through
+[C2] You are the [G/B]peace in my [Dsus]troubled [G]sea whoa oh
+[C2] You are the [G/B]peace in my [Dsus]troubled [G]sea
+
+{comment: Verse 2}
+[G]In the silence You [C2]won't let [G]go
+[C2]In the [G]questions Your [Dsus]truth will hold
+[G]Your great love will [C2]lead me [G]through
+[C2] You are the [G/B]peace in my [Dsus]troubled [G]sea whoa oh
+[C2] You are the [G/B]peace in my [Dsus]troubled [G]sea
+
+{comment: Chorus}
+[C2]My Light - [G]house    [Em7]my Light - [Dsus]house
+[C2]Shining in the [G]darkness    [Em7]I will follow [Dsus]You oh
+[C2]My Light - [G]house    [Em7]my Light - [Dsus]house
+[C2]I will trust the [G]promise    [Em7]You will carry [Dsus]me
+Safe to [C2]shore    [G]      [D]    safe to [C2]shore    [G]      [D]
+Safe to [C2]shore    [G]      [D]    safe to [G]shore
+
+{comment: Verse 3}
+[G]I won't fear what to - [C2]morrow [G]brings
+[C2]With each [G]morning I'll [Dsus]rise and sing
+[G]My God's love will [C2]lead me [G]through
+[C2] You are the [G/B]peace in my [Dsus]troubled [G]sea whoa oh
+[C2] You are the [G/B]peace in my [Dsus]troubled [G]sea
+
+{comment: Bridge}
+[C2] Fire be - [G]fore us  [Em7] You're the [D]brightest
+[C2] You will [G]lead us  [Em7]through the [D]storms
+
+
+CCLI-Liednummer 7002032
+© 2013 Thankyou Music
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

@@ -1,0 +1,48 @@
+{title: Indescribable}
+{artist: Jesse Reeves, Laura Story}
+{key: C}
+{time: 6/8}
+{tempo: 60}
+{ccli_license: 534848}
+{ccli: 4403076}
+{copyright: 2004 Laura Stories | sixsteps Music | worshiptogether.com songs}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Note}
+U1. Unbeschreiblicher
+
+{comment: Verse 1}
+[Am] From the highest of heights to the [Gsus/H]depths of the [C]sea [C2]
+[Dm]Creation’s [Dm7]revealing Your majes[Bb]ty
+[Am] From the colors of Fall to the [Gsus]fragrance of [C]spring [C2]
+[Dm]Ev’ry creature [Dm7]unique in the song that it [Bb]sings
+[F]All ex[G]claiming
+
+{comment: Chorus 1}
+[C] Indescribable  [Gsus] uncontainable
+[F2]You placed the stars in the sky and You know them by [Am]name
+[G]You are amazing  [F]God
+[C] All powerful  [Gsus] untamable
+[F]Awestruck we fall to our knees as we humbly pro[Am]claim
+[G]You are amaz[F]ing God
+
+{comment: Verse 2}
+[Am]Who has told ev’ry lightning bolt [Gsus]where it should [C]go [C2]
+[Dm]Or seen heavenly storehouses [Dm7]laden with [Bb] snow
+[Am]Who imagined the sun and gives [Gsus]source to its [C]light [C2]
+[Dm]Yet conceals it to [Dm7]bring us the coolness of [Bb]night
+[F]None can [G]fathom
+
+{comment: Chorus 2}
+[C] Indescribable  [Gsus] uncontainable
+[F]You placed the stars in the sky and You know them by [Am] name
+[G]You are amazing [F] God
+[C]Incomparable  [Gsus]unchangeable
+[F]You see the depths of my heart and You love me the [Am]same
+[G]You are amaz[F]ing God
+
+
+CCLI-Liednummer 4403076
+© 2004 Laura Stories | sixsteps Music | worshiptogether.com songs
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

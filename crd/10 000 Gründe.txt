@@ -1,0 +1,46 @@
+{title: Zehntausend Gründe}
+{artist: Matt Redman, Jonas Myrin}
+{artist: Deutsch: David Hanheiser, David Schnitter}
+{key: D}
+{time: 4/4}
+{tempo: 73}
+{ccli_license: 534848}
+{ccli: 6271093}
+{copyright: 2011 Atlas Mountain Songs | Thankyou Music}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Note}
+#1. 10 000 Reasons
+
+{comment: Chorus 1a}
+Komm und [G]lobe den [D]Herrn
+[A]meine Seele [Bm]sing
+[G]Bete den [D]König [A]an
+Sing wie [G]niemals zu - [Bm]vor
+[G]nur   [A]für   [Bm]ihn
+Und [G]bete den [A]König  [G/D]an    [D]     [G/D]    [D]
+
+{comment: Vers 1}
+Ein [G]neuer [D]Tag und ein [A]neuer [Bm]Morgen
+Und [G]wieder [D]bring ich [A]dir mein [Bm]Lob
+Was [G]heut vor mir [D]liegt und was [A]immer auch ge - [Bm]schehn mag
+[G]   Lass mich noch [D]singen wenn der A[A]bend  [D]kommt      [G/D]  [D]
+
+{comment: Vers 2}
+Du [G]liebst so [D]sehr und ver - [A]gibst ge - [Bm]duldig
+Schenkst [G]Gnade, [D]Trost, und Barm - [A]herzig - [Bm]keit
+Von [G]deiner [D]Güte will ich [A/C#]immer [Bm]singen
+[G]   Zehntausend [D]Gründe gibst du mir   [A]da - [D]für      [G/D]  [D]
+
+{comment: Vers 3}
+Und [G]wenn am [D]Ende die [A/C#]Kräfte [Bm]schwinden
+Wenn [G]meine [D]Zeit dann ge - [A]kommen [Bm]ist
+Wird [G]meine [D]Seele dich [A/C#]weiter [Bm]preisen
+[G]   Zehntausend [D]Jahre und in E  -  [A]wig  - [D]keit      [G/D]  [D]
+
+
+
+CCLI-Liednummer 6271093
+© 2011 Atlas Mountain Songs | Thankyou Music
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

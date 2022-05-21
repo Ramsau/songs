@@ -1,0 +1,51 @@
+{title: Dir gehört mein Lob}
+{artist: Matt Redman, Beth Redman || Deutsch:  Andreas Waldmann, Kai Peters}
+{artist: Andreas Waldmann, Beth Redman, Kai Peters, Matt Redman}
+{ccli_license: 534848}
+{ccli: 5298170}
+{copyright: 2002 Thankyou Music}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{key: A}
+{time: 4/4}
+{tempo: 116}
+
+{comment: Note}
+B1. Blessed be your name
+Capo 1
+
+{comment: Vers 1}
+[A]   Dir ge - [E]hört mein Lob wenn dein [F#m7]Segen in [D]Strömen fließt
+Du mir [A]mehr als ge - [E]nügend gibst, dir [D]gehört mein Lob
+
+{comment: Vers 2}
+[A]   Und dir ge - [E]hört mein Lob auch wenn [F#m7]ich mich ver - [D]loren fühl
+In der [A]Wüste und [E]ohne Ziel, dir [D]gehört mein Lob
+
+{comment: Pre-Chorus}
+[A]   Jeder Segen [E]den du schenkst wird [F#m7] zum Lob für [D]dich
+[A]   Und selbst wenn ich im [E]Dunkeln steh Herr [F#m7] gilt das für [D]mich
+
+{comment: Chorus}
+Jesus dir ge - [A]hört all mein [E]Lob
+Dir gehört mein [F#m7]Lob      [D]
+Jesus dir ge - [A]hört all mein [E]Lob
+Deinen Namen [F#m7]prei  -  se ich [D]Herr
+
+{comment: Vers 3}
+[A]   Dir ge - [E]hört mein Lob wenn die [F#m7]Sonne am [D]Himmel scheint
+Es das [A]Leben gut [E]mit mir meint, dir [D]gehört mein Lob
+
+{comment: Vers 4}
+[A]   Und dir ge - [E]hört mein Lob wenn der [F#m7]Weg auch nicht [D]einfach ist
+Sich mein [A]Lobpreis mit [E]Leiden mischt, dir [D]gehört mein Lob
+
+{comment: Bridge}
+E - [A]gal was du mir [E]gibst,     e - [F#m7]gal was du mir [D]nimmst
+Du [A]bist und bleibst mein [E]Gott,     nur [F#m7]dir gehört mein [D]Lob
+
+
+CCLI-Liednummer 5298170
+© 2002 Thankyou Music
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

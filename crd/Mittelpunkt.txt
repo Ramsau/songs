@@ -1,0 +1,34 @@
+{title: Mittelpunkt}
+{artist: Juri Friesen, Pala Friesen}
+{key: G}
+{time: 4/4}
+{tempo: 93}
+{ccli_license: 534848}
+{ccli: 6352819}
+{copyright: 2012 Outbreakband Musik}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Note}
+Capo 1
+
+{comment: Vers}
+[Em]Kö  -  [D/F#]nig  -  [G]lich      [C]strahlt [G]dein [Em]Licht
+Du bist [C]ewig - [G]lich niemand kommt dir [D]gleich
+[Em]Sanft - [D/F#]mü  -  [G]tig      [C]führst  [G]du   [Em]mich
+Hin zu [C]deinem [G]Licht ich darf bei dir [D]sein
+
+{comment: Chorus}
+Sei [G]du der [D/F#]Mittelpunkt in meinem [Em]Leben
+Der [C]Mittelpunkt in meinem [G]Herzen [Bm]ich gehöre [Em]dir      [C]
+Sei [G]du der [D/F#]Mittelpunkt in meiner [Em]Schwäche
+Der [C]Mittelpunkt in meiner [G]Stärke [Bm]ich gehöre [Em]dir      [C]
+
+{comment: Bridge}
+[C]  Ich will dir [Em]nah sein   [D] ich werd dir [G]fol - [Bm]gen
+[C]  Mein ganzes [Em]Leben in dir ver - [D]liern
+
+
+CCLI-Liednummer 6352819
+© 2012 Outbreakband Musik
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

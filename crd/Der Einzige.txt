@@ -1,0 +1,42 @@
+{title: Der Einzige}
+{artist: Mia Friesen, Stefan Schöpfle}
+{key: Em}
+{time: 4/4}
+{tempo: 79}
+{ccli_license: 534848}
+{ccli: 6059284}
+{copyright: 2010 Outbreakband Musik}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Note}
+Capo 1
+
+{comment: Vers 1}
+[Em]Heilig [C]bist Du [D]Herr      [Em] Du bist [C]heilig [D]Herr
+[Em]Du sitzt [C]auf dem [D]Thron
+Zu Deinen [Am]Füßen fühl [D]ich mich [Em]wohl
+[C]Kniend vor [D]Deinem [G]Thron
+
+{comment: Chorus}
+Staunend singe [Em]ich zu [C]Dir Du bist [G]hei  -  [D]lig
+Deine [Em]Herrlichkeit [C]strahlt so [D]schön
+Mein Blick hebt sich zu [Em]Dir und [C]sieht Du bist [G]hei  -  [D]lig
+[Am]Deine Schönheit [Em]wird nie ver[D]gehn
+
+{comment: Vers 2}
+[Em]Würdig [C]bist Du [D]Herr      [Em] Du bist [C]würdig [D]Herr
+[Em]Du sitzt [C]auf dem [D]Thron
+Für alle [Am]Zeiten bleibst [D]Du mein [Em]Gott
+[C]Herrschend auf [D]Deinem [G]Thron
+
+{comment: Bridge}
+[Em] Du bist der Einzige [C]dem dieses Lob gebührt
+[G]Heilig bist [Bm]Du
+[Em] Du bist der Einzige [C]dem dieses Lob gebührt
+[G]Heilig bist [Bm]Du      [G]
+
+
+CCLI-Liednummer 6059284
+© 2010 Outbreakband Musik
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

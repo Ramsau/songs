@@ -1,0 +1,38 @@
+{title: So groß ist der Herr}
+{artist: Arne Kopfermann, Chris Tomlin, Ed Cash, Jesse Reeves}
+{key: G}
+{time: 4/4}
+{ccli_license: 534848}
+{ccli: 5290068}
+{copyright: 2004 sixsteps Music | Vamos Publishing | worshiptogether.com songs | Wondrously Made Songs}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Note}
+H3. How great is our God
+
+{comment: Vers 1}
+Ein [G]König voller Pracht voll [Em7]Weisheit und voll Macht
+Die Schöpfung betet [C2]an die Schöpfung betet an
+Er [G]kleidet sich in Licht das [Em7]Dunkel hält ihn nicht
+Und flieht sobald er [C2]spricht und flieht sobald er spricht
+
+{comment: Chorus}
+So [G]groß ist der Herr singt mit mir
+So [Em7]groß ist der Herr ihn preisen wir
+So [Cmaj7]groß So [D]groß ist der [G2]Herr
+
+{comment: Vers 2}
+Von [G]Anbeginn der Zeit bis [Em7]in die Ewigkeit
+Bleibt er derselbe [C2]Gott bleibt er derselbe Gott
+Als [G]Vater Sohn und Geist den [Em7]alle Schöpfung preist
+Als Löwe und als [C2]Lamm als Löwe und als Lamm
+
+{comment: Bridge}
+Sein [G]Name sei erhöht Denn [Em7]er verdient das Lob
+Wir [Cmaj7]singen laut So [D]groß ist der [G]Herr
+
+
+CCLI-Liednummer 5290068
+© 2004 sixsteps Music | Vamos Publishing | worshiptogether.com songs | Wondrously Made Songs
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848
