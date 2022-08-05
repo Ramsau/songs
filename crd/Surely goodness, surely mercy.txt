@@ -9,6 +9,9 @@
 {time: 4/4}
 {tempo: 55}
 
+{comment: Note}
+Capo 2
+
 {comment: Verse 1}
 The [F]Lord is my [G]shepherd, I shall [Csus]not   [C]want
 [F]In green pastures [G]He makes me lie [C]down
