@@ -1,0 +1,40 @@
+{title: Cornerstone}
+{artist: Edward Mote, Eric Liljero, Jonas Myrin, Reuben Morgan, William Batchelder Bradbury}
+{key: G}
+{time: 4/4}
+{tempo: 71}
+{ccli_license: 534848}
+{ccli: 6158927}
+{copyright: 2011 Hillsong MP Songs | Hillsong Music Publishing Australia | Hillsong Music Publishing UK}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Verse 1}
+[G]  My hope is built on nothing less
+[C9]  Than Jesus’ blood and [D]righteousness
+[Em] I dare not trust the [G]sweetest frame
+[C9]  But wholly [D]trust in
+Je - [G] sus’ Name
+
+{comment: Chorus}
+Christ a - [C9]lone, [Em]Corner - [D]stone
+[G/B]Weak made [C9]strong in the [Em]Saviour’s [D]love
+[G]Through the [C9]storm, [Em]He is [D]Lord, Lord of [G]all
+
+{comment: Verse 2}
+[G] When darkness seems to hide His face
+[C9] I rest on His un - [D]changing grace
+[Em] In ev’ry high and [G]stormy gale
+[C9] My anchor [D]holds within [G] the veil
+[C9] My anchor [D]holds within [G] the veil
+
+{comment: Verse 3}
+[G]  When He shall come with trumpet sound
+[C9]  Oh may I then in [D]Him be found
+[Em] Dressed in His righteous - [G]ness alone
+[C9]  Faultless we [D]stand before [G] the throne
+
+
+CCLI-Liednummer 6158927
+© 2011 Hillsong MP Songs | Hillsong Music Publishing Australia | Hillsong Music Publishing UK
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848
