@@ -8,42 +8,34 @@
 {copyright: 2015 Meaux Mercy | The Devil Is A Liar! Publishing | Thankyou Music | Bethel Music Publishing}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
-{comment: Intro}
-[||:] [B]         [|]      [C#m]  [|] [E]         [|]          [:||]
+{comment: Note}
+D4. Der Löwe und das Lamm
+Capo 4
 
 {comment: Verse 1}
-He's [B]coming on the clouds, kings and kingdoms [C#m]will bow [E]down
-And [G#m]every chain will break as broken hearts de - [F#]clare His [E]praise
-For who can stop the [F#]Lord Almighty?
+He's [G]coming on the clouds, kings and kingdoms [Am7]will bow [C]down
+And [Em]every chain will break as [Dsus]broken hearts declare His [C]praise
+For who can stop the [Dsus]Lord Almighty?
 
 {comment: Chorus}
-[B]    Our God is the Lion, the [F#]Lion of [G#m7]Judah
-He's roaring with [G#m7]power, and [F#]fighting our [E]battles
-And every knee will [F#]bow before Him
-[B]  Our God is the Lamb, the [F#]Lamb that was [G#m7]slain
-For the sins of the [G#m7]world, His [F#]blood breaks the [E]chains
-And every knee will [F#]bow before the Lion and the [E]Lamb
-Every knee will [F#]bow before Him
-
-{comment: Turnaround}
-[|] [B]          [|] [C#m7]    [|] [E]          [|]             [|]
+[G]Our God is the Lion, the [Dsus]Lion of [Em7]Judah
+He's roaring with power, and [Dsus]fighting our [C]battles
+And every knee will [Dsus]bow before Him
+[G]Our God is the Lamb, the [Dsus]Lamb that was [Em7]slain
+For the sins of the world, His [Dsus]blood breaks the [C]chains
+And every knee will [Dsus]bow before the Lion and the [C]Lamb
+Every knee will [Dsus]bow before Him
 
 {comment: Verse 2}
-So [B]open up the gates, make way before the [C#m]King of [E]kings
-The [G#m]God who comes to save is here to set the [F#]captives [E]free
-For who can stop the [F#]Lord Almighty?
-
-{comment: Instrumental}
-[|] [C#m]     [|] [B/D#]    [|] [E]          [|] [F#]        [|]
+So [G]open up the gates, make way before the [Am7]King of [C]kings
+The [Em]God who comes to save is here to set the [Dsus]captives [C]free
+For who can stop the [Dsus]Lord Almighty?
 
 {comment: Bridge}
-[C#m]    Who can stop the [B/D#]Lord Almighty?
-[E]    Who can stop the [F#]Lord Almighty?
-[C#m]    Who can stop the [B/D#]Lord Almighty?
-[E]    Who can stop the [F#]Lord?
-
-{comment: Outro}
-[|] [B]          [|]             [|]             [|]             [|]
+[Am7]Who can stop the [G/B]Lord Almighty?
+[C]Who can stop the [Dsus]Lord Almighty?
+[Am7]Who can stop the [G/B]Lord Almighty?
+[C]Who can stop the [Dsus]Lord?
 
 
 CCLI-Liednummer 7038281

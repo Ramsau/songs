@@ -1,0 +1,45 @@
+{title: Der Löwe und das Lamm}
+{artist: Brenton Brown, Brian Johnson, Leeland Mooring}
+{subtitle: Deutsch: Sandra Dittman}
+{key: G}
+{tempo: 88}
+{time: 4/4}
+{ccli_license: 534848}
+{ccli: 7062925}
+{copyright: Meaux Mercy | The Devil Is A Liar! Publishing | Thankyou Music | Bethel Music Publishing}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Note}
+T2. The lion and the lamb
+Capo 4
+
+{comment: Vers 1}
+Wenn [G]Jesus wiederkommt beugt sich alle [Am7]Welt vor [C]ihm
+[Em]Ketten brechen wenn zer[Dsus]brochne Herzen ihn ver[C]ehrn
+Denn wer kann unsern [Dsus]Gott aufhalten?
+
+{comment: Chorus}
+[G]Denn er ist der Löwe der [Dsus]Löwe von [Em7]Juda
+Sein Brüllen ist mächtig er [Dsus]kämpft unsre [C]Kämpfe
+Und jeder wird sich [Dsus]vor ihm beugen
+[G]Denn er ist das Lamm ge[Dsus]schlachtet für [Em7]uns
+Für die Sünden der Welt und [Dsus]sein Blut be[C]freit
+Und jeder wird sich [Dsus]beugen vor dem Löwen und dem [C]Lamm
+Jeder wird sich [Dsus]vor ihm beugen
+
+{comment: Vers 2}
+Kommt [G]öffnet ihm das Tor und bahnt den Weg dem [Am7]Herrn der [C]Herrn
+Der [Em]Gott der uns erlöst ist [Dsus]hier und setzt Gefangne [C]frei
+Denn wer kann unsern [Dsus]Gott aufhalten?
+
+{comment: Bridge}
+[Am7]Wer kann unsern [G/B]Gott aufhalten?
+[C]Wer kann unsern [Dsus]Gott aufhalten?
+[Am7]Wer kann unsern [G/B]Gott aufhalten?
+[C]Niemand hält ihn [Dsus]auf!
+
+
+CCLI-Liednummer 7062925
+© Meaux Mercy | The Devil Is A Liar! Publishing | Thankyou Music | Bethel Music Publishing
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848

@@ -1,7 +1,7 @@
 {title: Run To The Father}
 {artist: Cody Carnes, Matt Maher, Ran Jackson}
 {subtitle: (based on the recording by Cody Carnes | original key: C)}
-{key: A}
+{key: C}
 {time: 6/8}
 {tempo: 45}
 {ccli_license: 534848}
@@ -10,42 +10,44 @@
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
 {comment: Verse 1}
-[A]  I've carried a [Bm7(4)]burden        [F#m7]  for too long on my [D2] own
-[A]  I wasn't cre - [Bm7(4)]ated        [F#m7]    to bear it a - [D2]lone
-[A] I hear Your invi - [Bm7(4)]tation        [F#m7]    to let it all [D2]go
-I see it [A]now I'm laying it [Bm7(4)]down and I know that [F#m7]I    [E(4)]need    [D2]You
+[C]  I've carried a [Dm7]burden        [Am7]  for too long on my [F2] own
+[C]  I wasn't cre - [Dm7]ated        [Am7]    to bear it a - [F2]lone
+[C] I hear Your invi - [Dm7]tation        [Am7]    to let it all [F2]go
+I see it [C]now I'm laying it [Dm7]down and I know that [Am7]I    [G]need    [F2]You
 
 {comment: Chorus 1}
-I run to the [A]Father I fall into [Bm7(4)]grace
-I'm done with the [F#m7]hiding no reason to [D2]wait
-My heart needs a [A]surgeon my soul needs a [Bm7(4)]friend
-So I'll run to the [F#m7]Father again and a - [D2]gain
-And again and a - [A]gain
+I run to the [C]Father I fall into [Dm7]grace
+I'm done with the [Am7]hiding no reason to [F2]wait
+My heart needs a [C]surgeon my soul needs a [Dm7]friend
+So I'll run to the [Am7]Father again and a - [F2]gain
+And again and a - [C]gain
 
-{comment: Interlude}
-[A]    Oh    [Bm7(4)]    oh    [F#m7]    oh    [D2]
+{comment: Interlude 1}
+[C]    Oh    [Dm7]    oh    [Am7]    oh    [F2]
 
 {comment: Verse 2}
-[A]  You saw my con - [Bm7(4)]dition        [F#m7]  had a plan from the [D2] start
-[A]  Your Son for re - [Bm7(4)]demption        [F#m7]    the price for my [D2]heart
-[A]  I don't have a [Bm7(4)]context        [F#m7]    for that kind of [D2]love
-I don't under - [A]stand I can't compre - [Bm7(4)]hend all I know is [F#m7]I    [E(4)]need    [D2]You
+[C]  You saw my con - [Dm7]dition        [Am7]  had a plan from the [F2] start
+[C]  Your Son for re - [Dm7]demption        [Am7]    the price for my [F2]heart
+[C]  I don't have a [Dm7]context        [Am7]    for that kind of [F2]love
+I don't under - [C]stand I can't compre - [Dm7]hend all I know is [Am7]I    [G]need    [F2]You
+
+{comment: Interlude 2}
+[C]    Oh    [Dm7]    oh    [Am7]  again and a - [F2]gain
+And again and a - [C]gain    oh    [Dm7]    oh    [Am7]    oh    [F2]
+Again and a - [C]gain
 
 {comment: Bridge}
-My heart has been [F#m7]in Your [D2]sights long before [A/C#]my first [E(4)]breath
-Running in - [F#m7]to Your [D2]arms is running to [A/C#]life from [E(4)]death
-I feel this [F#m7]rush deep in my [D2]chest Your mercy is [A/C#]calling    [E(4)]out
-Just as I [F#m7]am You pull me [D2]in and I know I [A/C#]need You [E(4)]now
+My heart has been [Am7]in Your [F2]sights long before [C/E]my first [G]breath
+Running in - [Am7]to Your [F2]arms is running to [C/E]life from [G]death
+I feel this [Am7]rush deep in my [F2]chest Your mercy is [C/E]calling    [G]out
+Just as I [Am7]am You pull me [F2]in and I know I [C/E]need You [G]now
 
 {comment: Chorus 2}
-I run to the [A]Father I fall into [Bm7(4)]grace
-I'm done with the [F#m7]hiding no reason to [D2]wait
-My heart found a [A]surgeon my soul found a [Bm7(4)]friend
-So I'll run to the [F#m7]Father again and a - [D2]gain
-And again and a - [A]gain
-
-{comment: Outro}
-[|] [A]           [|] [Bm7(4)]      [|] [F#m7]        [E(4)] [|] [D2]    [Bm7(4)]    [|] [A]           [|]
+I run to the [C]Father I fall into [Dm7]grace
+I'm done with the [Am7]hiding no reason to [F2]wait
+My heart found a [C]surgeon my soul found a [Dm7]friend
+So I'll run to the [Am7]Father again and a - [F2]gain
+And again and a - [C]gain
 
 
 CCLI-Liednummer 7133494
