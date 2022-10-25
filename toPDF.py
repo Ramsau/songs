@@ -274,8 +274,8 @@ def write_songs():
     p.set_x((p.w - p.get_string_width("Jugendkreis-Liedermappe")) / 2)
     p.write(LINE_SPACING + 2, "Jugendkreis-Liedermappe")
     logo_height = 40
-    logo_aspect = 1.1214
-    p.image('logo inv.jpg',
+    logo_aspect = 1.956852792
+    p.image('2A_original_quer_transparent.png',
             (p.w - logo_height * logo_aspect) / 2,
             (p.h - logo_height + image_size + LINE_SPACING) /2,
             logo_height * logo_aspect, logo_height)
