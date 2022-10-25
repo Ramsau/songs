@@ -1,0 +1,50 @@
+{title: Höher}
+{artist: Dominik Laim}
+{subtitle: Deutsch: Jennifer Pepper | Sarah Keim | Zippora Schneider - Ulrich | Steffen Bodemer}
+{key: A}
+{tempo: 72}
+{time: 4/4 }
+{ccli_license: 534848}
+{ccli: 7051762}
+{copyright: ICF Media GmbH | Integrity's Praise! Music}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Vers 1}
+Du sagst [A]wo die Sonne aufgeht
+Du be - [D/A]stimmst den Lauf der [A]Zeit
+Zeigst der [D]Dunkelheit die [F#m7]Grenzen
+Und du [D]spannst den Himmel [E]weit
+
+{comment: Vers 2}
+Du liebst [A]den der’s nicht verdient hat
+Hilfst dem [D/A]Schwachen aufzu - [A]stehn
+Wählst den [D]Tod für meine [F#m7]Rettung
+Gibst mir [D]Kraft nach vorn zu [E]sehn
+
+{comment: Pre - Chorus}
+Es gibt [D]keinen der dir [A]gleicht
+[E]Du mein [E/G#]Gott bist...
+
+{comment: Chorus 1}
+[A/C#]Größer, [D]höher [Esus]weiter als der [E]Himmel
+Und [A/C#]deine   [D]Liebe ist [Esus]tiefer als das [E]Meer
+Und [A/C#]was du [D]sagst bleibt, es [F#m]bleibt für alle [E]Zeit
+Darum [A/C#]halt ich [D]fest an [Esus]dir, dem [E]Schöpfer der [A]Welt
+
+{comment: Bridge}
+Jesus du [D]stehst hoch über [A/C#]allem
+Ich will dich [D]ehren mit allem in [E]mir
+Ich werd deine [D]Wege niemals ganz ver - [A/C#]stehn
+Ich kann dich nicht [D]greifen doch mein Herz kann dich [E]sehn
+
+{comment: Chorus 2}
+Gott du bist [A/C#]größer, [D]höher [Esus]weiter als der [E]Himmel
+Und [A/C#]deine   [D]Liebe ist [Esus]tiefer als das [E]Meer
+Und [A/C#]was du [D]sagst bleibt, es [F#m]bleibt für alle [E]Zeit
+Darum [A/C#]halt ich [D]fest an [Esus]dir, dem [E]Schöpfer der [A]Welt
+
+
+CCLI-Liednummer 7051762
+© ICF Media GmbH | Integrity's Praise! Music
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848
