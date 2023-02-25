@@ -1,0 +1,45 @@
+{title: Majestät}
+{artist: Martin Smith, Stuart Garrard, Deutsch:  Chris Halmen, Jonny Pechstein, Michael Thummert, Tobi Wegschaider}
+{key: G}
+{tempo: 68}
+{time: 4/4}
+{ccli_license: 534848}
+{ccli: 5445222}
+{copyright: 2003, 2004 Curious? Music UK}
+{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+
+{comment: Note}
+M6. Majesty
+
+{comment: Vers 1}
+[Em]Hier   [D]bin   [Cmaj7]ich      [G/B]klein vor deiner Herrlich - [Cmaj7]keit 
+[G/B]Deine Gnade hat mich be - [D/F#]freit    [B/D#]
+[Em]Hier   [D]bin   [Cmaj7]ich      [G/B]kenne meine Sünde [Cmaj7]gut 
+[G/B]Doch du machst mich rein durch dein [D/F#]Blut    [B/D#]
+
+{comment: Pre-Chorus}
+[Em]Ich   [D/F#]fand   [G]ja die allergrößte [Em]Lie - [D/F#]be    [G]da
+Wo du dein Leben [A/C#]gabst das größte Opfer [C]warst [D7/C]    [C]    [D7/C]
+
+{comment: Chorus 1}
+[G]Majes - [D]tät     [Em]Majes - [C]tät 
+Ich [G]bin wie deine Gnade mich [D]fand 
+Leer und [Em]dennoch leb ich in deiner [C]Hand 
+
+{comment: Vers 2}
+[Em]Hier   [D]bin   [Cmaj7]ich      [G/B]demütig weil du mich [Cmaj7]liebst 
+Ver - [G/B]geben kann ich weil du ver - [D/F#]gibst    [B/D#]
+[Em]Hier   [D]bin   [Cmaj7]ich      [G/B]weiß nur dich verlangt nach [Cmaj7]mir 
+Ge - [G/B]heiligt durch das Feuer in [D/F#]dir    [B/D#]
+
+{comment: Chorus 2}
+[G]Majes - [D]tät     [Em]Majes - [C]tät 
+Ver - [G]ändert bin ich für alle [D]Zeit 
+In der [Em]Nähe deiner Herrlich - [Cmaj7]keit
+Majes - [Cmaj7]tät 
+
+
+CCLI-Liednummer 5445222
+© 2003, 2004 Curious? Music UK
+Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
+CCLI-Lizenznummer 534848
