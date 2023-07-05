@@ -20,7 +20,7 @@ CHORD_PADDING = -1.5
 
 SIDE_MARGIN = 15
 
-INDEX_PAGES = 2
+INDEX_PAGES = 3
 
 """Features"""
 EVEN_PAGES = False
