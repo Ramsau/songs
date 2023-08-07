@@ -1,7 +1,7 @@
 {comment: Strophe 1}
 [Em]Allein durch [G]Gnade steh ich [C]hier
 [G]vor Deinem [C]Thron, mein Gott, bei [D]Dir.
-[Em]Der mich er[G]löst lädt mich [C]ein,
+[Em]Der mich er[G]löst hat lädt mich [C]ein,
 [G]ganz nah an [C]seinem Herz zu [D]sein.
 {comment: Refrain 1}
 Durch[G]bohrte [C]Hände

@@ -1,0 +1,50 @@
+{title: Living Hope}
+{artist: Phil Wickham, Brian Johnson}
+{subtitle: (based on the recording by Phil Wickham)}
+{key: C}
+{ccli_license: 757948}
+{ccli: 7106807}
+{copyright: 2017 Phil Wickham Music | Simply Global Songs | Sing My Songs | Bethel Music Publishing}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+{tempo: 72} 
+{time: 4/4} 
+
+{comment: Verse 1}
+How great the [C]chasm that lay be - [Gsus]tween us
+How high the [F2]mountain  [Am7] I could not [Gsus]climb
+In desper - [C]ation I turned to [Gsus]heaven
+And spoke Your [F2]name in - [Gsus]to the [C]night
+Then through the [F2]darkness Your loving-[C]kindness
+Tore through the [Am7]shadows of my [G(4)]soul
+The work is [C]finished the end is [Gsus]written
+Jesus [F]Christ, my [Gsus]living    [C]hope      [F2]
+
+{comment: Verse 2}
+Who could im - [C]agine so great a [Gsus]mercy?
+What heart could [F2]fathom  [Am7] such boundless [Gsus]grace?
+The God of [C]ages stepped down from [Gsus]glory
+To wear my [F]sin and [Gsus]bear my [C]shame
+The cross has [F2]spoken, I am for - [C]given
+The King of [Am7]kings calls me His [G(4)]own
+Beautiful [C]Savior, I’m Yours for - [Gsus]ever
+Jesus [F]Christ, my [Gsus]living    [C]hope
+
+{comment: Chorus}
+Halle - [F2]lujah,   [C] praise the [G]One who set me [Am7]free!
+Halle - [F2]lu -  [C]jah, death has [G]lost its grip on [Am7]me!
+You have [F2]broken every [C]chain, there’s sal - [G]vation in Your [Am7]name
+[C/G]Jesus    [F2]Christ, my [Gsus]liv -  [G]ing   [Am]hope    [C/E]
+
+{comment: Verse 3}
+Then came the [C]morning that sealed the [Gsus]promise
+Your buried [F2]body   [Am7] began to [Gsus]breathe
+Out of the [C]silence, the Roaring [Gsus]Lion
+Declared the [F2]grave has no [Gsus]claim on [Am]me    [C/E]
+Jesus, [F2]Yours is the [C/G]vic -  [G]to - [C]ry!
+
+
+
+CCLI Song # 7106807
+© 2017 Phil Wickham Music | Simply Global Songs | Sing My Songs | Bethel Music Publishing
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 757948

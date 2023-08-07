@@ -1,5 +1,5 @@
 {comment: Strophe 1}
-Wonn do [Am]domois [F]glebt hättst,
+Wonn du [Am]domois [F]glebt hättst,
 [C]als Jesus [G]da war,
 Als [Am]Kind mit eam [F]gspüd hättst,
 [C]Jahr um [G]Jahr,
@@ -37,7 +37,7 @@ und do san [Am]Menschen [F]gsund woan,
 
 {comment: Strophe 4}
 Und de [Am]Leid san eam [F]nochgrennt,
-[C]ham eam ver[F]ehrt.
+[C]ham eam ver[G]ehrt.
 Über[Am]all hat ma [F]eam kennt,
 und hat [C]eam zua[G]ghead.
 Er hat die [Am]Sünd beim [F]Nam gnennt,
