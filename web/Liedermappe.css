@@ -1,0 +1,4 @@
+span.line-segment {
+    display: inline-flex;
+    flex-direction: column;
+}
