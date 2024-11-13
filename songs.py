@@ -80,7 +80,7 @@ class Line:
 
             website.write(piece.text)
 
-            website.write('&nbsp;</span>')
+            website.write('</span>')
 
 
 
@@ -213,7 +213,7 @@ class Song:
         website.write(f'<a href="#{self.number}"><h2 id="Index{self.number}">{self.number}. {self.title}</h2></a>\n')
 
     def write_website(self, website: TextIO):
-        website.write(f'<a href="#Index{self.number}"><h2 id="{self.number}">{self.number}. {self.title}</h2></a>\n')
+        website.write(f'<a href="#Index{self.number}"><h2 class="song-title" id="{self.number}">{self.number}. {self.title}</h2></a>\n')
 
         for verse in self.verses:
             verse.write_website(website)

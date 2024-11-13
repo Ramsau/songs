@@ -2,7 +2,7 @@ from songs import Song
 
 
 def write_songs():
-    website = open("web/Liedermappe.html", "w")
+    website = open("web/index.html", "w")
     songs = Song.ingest_all(numbering="numbers")
 
 
@@ -10,17 +10,39 @@ def write_songs():
 <html>
 <head>
     <meta charset="utf-8">
-    <ref rel="stylesheet" href="/songs/web/Liedermappe.css">
     <style type="text/css">
+        html {
+            font-family: "Arial";
+            font-size: 30pt;
+        }
         span.line-segment {
             display: inline-flex;
             flex-direction: column;
         }
         
+        span.text {
+          white-space: pre;
+        }
+        
+        span.text:empty::before {
+            content: " ";
+        }
+        
+        span.chord {
+            margin-right: 0.5em;
+        }
         
         div.line {
             display: flex;
             align-items: end;
+        }
+        
+        a {
+            color: black;
+        }
+        
+        .song-title {
+            margin-top: 50pt;
         }
     </style>
 </head>
