@@ -184,7 +184,7 @@ class Song:
         songs: List[Song] = []
         dir = "crd"
 
-        with open("index.txt") as f:
+        with open("index.txt", "r", encoding='utf-8') as f:
             names = f.readlines()
 
         pathlist = [name.replace('\n', '.txt') for name in names if not name.startswith('#')]
