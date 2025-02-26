@@ -2,7 +2,7 @@ from songs import Song
 
 
 def write_songs():
-    website = open("web/index.html", "w")
+    website = open("web/index.html", "w", encoding='utf-8')
     songs = Song.ingest_all(numbering="numbers")
 
 
