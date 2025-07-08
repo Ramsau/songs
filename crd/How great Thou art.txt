@@ -1,0 +1,46 @@
+{title: How Great Thou Art}
+{artist: Words by Stuart Wesley Keene Hine | Music: Swedish Folk Melody}
+{subtitle: (as published by Singspiration, Inc.)}
+{key: G}
+{time: 4/4 }
+{tempo: 48}
+{ccli_license: 757948}
+{ccli: 14181}
+{copyright: Copyright 1949 and 1953 Stuart Hine Trust CIO Stuart K. Hine Trust}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Verse 1}
+O Lord my [G]God,        when I in [C]awesome wonder 
+Consider   [G/D]all  the [D]worlds Thy hands have [G]made      [D]
+I see the [G]stars,        I hear the [C]rolling thunder
+Thy pow'r through - [G/D]out  the [D]universe dis - [G]played     [D]
+
+{comment: Chorus}
+Then sings my [G]soul,      my    [C]Saviour God, to [G]Thee 
+How great Thou [Am7]art,       [D]  how great Thou [G]art         [D]
+Then sings my [G]soul,      my    [C]Saviour God, to [G]Thee 
+How great Thou [Am7]art,       [D]  how great Thou [G]art
+
+{comment: Verse 2}
+When through the [G]woods        and forest [C]glades I wander
+And hear the [G/D]birds    sing [D]sweetly in the [G]trees      [D]
+When I look [G]down        from lofty [C]mountain grandeur
+And hear the [G/D]brook    and [D]feel the gentle [G]breeze    [D]
+
+{comment: Verse 3}
+And when I [G]think        that God His [C]Son not sparing
+Sent Him to [G/D]die,  I   [D]scarce can take it [G]in         [D]
+That on the [G]cross,        my burden [C]gladly bearing
+He bled and [G/D]died   to  [D]take away my   [G]sin         [D]
+
+{comment: Verse 4}
+When Christ shall [G]come        with shout of [C]acclamation
+And take me    [G/D]home–    what [D]joy shall fill my [G]heart     [D]
+Then shall I [G]bow         in humble [C]adoration
+And there pro - [G/D]claim,   my [D]God, how great Thou [G]art         [D]
+
+
+CCLI Song # 14181
+© Copyright 1949 and 1953 Stuart Hine Trust CIO Stuart K. Hine Trust
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 757948
