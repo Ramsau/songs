@@ -1,0 +1,29 @@
+{title: Above All}
+{artist: Lenny LeBlanc, Paul Baloche}
+{key: A}
+{time: 4/4}
+{tempo: 62}
+{ccli_license: 757948}
+{ccli: 2672885}
+{copyright: 1999 Integrity's Hosanna! Music | Leadworship Songs | LenSongs Publishing}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Verse 1}
+A - [A]bove all [E]pow[D]ers, a - [E]bove all [A] kings
+A - [A/C#]bove all [E]na - [D]ture and all cre - [E]ated [A]things
+A - [A/G#]bove all [F#m]wisdom and [Amaj7/E]all the ways of [D]man [A/C#]
+[Bm7]You were here be - [D/A]fore the world be - [E/G#]gan    [A]
+
+{comment: Verse 2}
+A - [A/C#]bove all [E]king - [D]doms, a - [E]bove all [A] thrones
+A - [A/C#]bove all [E]won - [D]ders the world has [E]ever [A]known
+A - [A/G#]bove all [F#m]wealth and [Amaj7/E]treasures of the [D]earth [A/C#]
+[Bm7]There’s no way to [D/A]measure what You’re [C#sus/G#]worth   [C#]
+
+{comment: Chorus}
+[A]Cruci - [Bm7]fied,     [E/G#]laid behind the [A]stone 
+You [A]lived to [Bm7]die, re - [E/G#]jected and a - [A]lone 
+[A/G#]Like a [F#m]rose,   [Amaj7/E]trampled on the [D]ground  [A/C#]
+You took the [Bm7]fall,    [A/C#] and thought of [D2]me    [Esus]
+[E]Above [A]all
+[|] [D]      [Esus]   [E]  [|] [A]   [D/A]   [A]    [|]         
