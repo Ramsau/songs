@@ -8,8 +8,8 @@
 {copyright: 2004 Laura Stories | sixsteps Music | worshiptogether.com songs}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
-{comment: Note}
-U1. Unbeschreiblicher
+{comment: Related Song}
+Unbeschreiblicher
 
 {comment: Verse 1}
 [Am] From the highest of heights to the [Gsus/H]depths of the [C]sea [C2]

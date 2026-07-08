@@ -8,8 +8,8 @@
 {copyright: 2001 Thankyou Music}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
-{comment: Note}
-I2. In Christ alone
+{comment: Related Song}
+In Christ alone
 
 {comment: Vers 1}
 In [G]Christus [D]ist mein [G]ganzer [A]Halt

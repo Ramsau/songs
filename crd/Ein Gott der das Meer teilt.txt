@@ -1,0 +1,51 @@
+{title: Ein Gott der das Meer teilt}
+{artist: Timo Langner}
+{key: F}
+{time: 4/4}
+{tempo: 71}
+{ccli_license: 757948}
+{ccli: 7205429}
+{copyright: 2022 Gerth Medien}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Intro}
+[|][Dm]            [|][Bb]            [|][F]             [|][Am7]           [|] 
+
+{comment: Vers 1}
+Wenn bei dir [Dm]Lahme wieder gehn, Taube [Bb]hörn und Blinde sehn
+Bin [F]ich gewiss dass alles möglich [Am7]ist
+Wenn du zer - [Dm]broch’ne Herzen heilst und aus der [Bb]Sklaverei befreist
+Kein [F]Zweifel mehr dass alles möglich [Am7]ist
+
+{comment: Pre-Chorus}
+[Bb]Gott der Wunder du bist [Gm]hier      und [F]ich weiß tief in [C]mir
+
+{comment: Chorus}
+Bei einem Gott der das [F]Meer teilt, da ist immer ein [C]Weg
+Da ist immer noch [Dm]Hoffnung, wenn’s [C]scheinbar nicht [Bb]weitergeht
+Ein Gott der das [F]Meer teilt kommt nicht zu [C]spät
+Da ist immer noch [Dm]Hoffnung, mein [C]Gott bahnt immer einen [Bb]Weg
+Bahnt immer einen [Bb]Weg    [(Dm]    [C]    [Bb)] (Schluss)
+
+{comment: Vers 2}
+Keiner [Dm]glaubte mehr daran, dass ihn ein [Bb]Wunder retten kann
+[F]Denn er lag vier Tage schon im [Am7]Grab
+Doch du riefst, [Bb]Lazarus steh auf, komm aus [Gm]deiner Höhle raus
+Und [F]wenn du sprichst werden Wunder [C]wahr
+
+{comment: Instrumental}
+[|][Bb]           [|][C]            [|][Dm]            [|][Am]           [|] 
+
+{comment: Bridge 1}
+Un - [Bb]möglich ist keine Option,Un - [C]möglich ist keine Option
+Un - [Dm]möglich ist keine Option, Un - [Am]möglich ist keine Option
+
+{comment: Bridge 2}
+Mein Gott re - [Bb]giert, er ist immer noch auf dem [C]Thron
+Und Ausweglosig - [Dm]keit ist immer noch keine Op - [Am]tion
+
+
+CCLI Song # 7205429
+© 2022 Gerth Medien
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 757948

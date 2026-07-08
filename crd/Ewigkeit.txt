@@ -1,0 +1,43 @@
+{title: Ewigkeit}
+{artist: Mia Friesen, Nikolai Nilkens}
+{key: G}
+{time: 4/4}
+{tempo: 142}
+{ccli_license: 757948}
+{ccli: 7158243}
+{copyright: Outbreakband Musik}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Intro}
+[|][G]             [|][Am]  [|][Em]        [|][Em]        [|]
+[|][C]             [|][D]     [|][Em]        [|][Em]        [|]
+
+{comment: Vers 1}
+Ich [G]sehne mich nach [Am]einem [Em]Ort wo [C]alles Leid ein [D]Ende [Em]hat
+Denn [G]was ich mit den [Am]Augen [Em]seh kann [C]meine Seele [D]nicht ver - [G]stehn
+
+{comment: Vers 2}
+Ich [G]weiß du hast den [Am]besten [Em]Plan auf [C]den ich mich ver - [D]lassen [Em]kann
+Auf [G]jedem noch so [Am]schweren [Em]Weg schau [C]ich auf das was [D]nie ver - [G]geht
+
+{comment: Chorus}
+[Am] Die Ewigkeit ist [G]mein Zu - [D]hause, [G] du hast sie mir ins [G/B]Herz ge - [C]legt
+[Am] Auch wenn ich sterben [G]werde [D]weiß ich, [G] dass meine Seele [G/B]ewig [C]lebt
+[Am] Und diese Hoffnung [G]wird mich [D]tragen, bis [Am]ich dir gegen - [D]über [G]steh   
+
+{comment: Vers 3}
+Ich [G]weiß ich bin nur [Am]zu Be - [Em]such denn [C]wahre Heimat [D]gibst nur [Em]du
+Als [G]Bürger deines [Am]Himmel - [Em]reichs werd [C]ich für immer [D]bei dir [G]sein
+
+{comment: Vers 4}
+Mit [G]Fokus auf die [Am]Ewig - [Em]keit leb [C]ich für das was [D]ewig [Em]bleibt
+Das [G]Ziel vor Augen [Am]Tag für [Em]Tag bis [C]ich den Lauf voll - [D]endet [G]hab
+
+{comment: Schluss}
+Ich [Am]werd dir gegen - [D]über [G]stehn
+
+
+CCLI Song # 7158243
+© Outbreakband Musik
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 757948

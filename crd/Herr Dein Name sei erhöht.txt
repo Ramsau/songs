@@ -1,0 +1,31 @@
+{title: Herr dein Name sei erhöht}
+{artist: Rick Founds || Deutsch: Karin Geitz}
+{key: G}
+{tempo: 86}
+{time: 4/4}
+{ccli_license: 757948}
+{ccli: 5183120}
+{copyright: 1989 Universal Music - Brentwood Benson Publishing}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Related Song}
+Lord I lift Your name on high
+
+{comment: Vers}
+[G]   Herr dein [C/G]Name sei er - [D/G]höht    [C/G]
+[G]   Herr ich [C/G]singe dir zur [D/G]Eh  -  [C/G]re 
+[G]   Danke [C/G]dass du in mir [D/G]lebst   [C/G]
+[G]   Danke [C/G]für deine Er - [D]lösung [Dsus]   [D]   [C]
+
+{comment: Chorus}
+[G]   Du kamst vom [C]Himmel he - [D]rab zeigst [C/D]uns den Weg 
+[G]   Herr du [C]hast am Kreuz be - [D]zahlt für [C]meine Schuld 
+[G]   Und sie [C]legten dich ins [D]Grab 
+Doch du [Em7]stiegst zum Himmel [Am7]auf 
+Herr dein [D]Name sei er - [G]höht 
+
+
+CCLI Song # 5183120
+© 1989 Universal Music - Brentwood Benson Publishing
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 757948

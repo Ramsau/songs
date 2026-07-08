@@ -8,8 +8,8 @@
 {copyright: 2004 sixsteps Music | Vamos Publishing | worshiptogether.com songs | Wondrously Made Songs}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
-{comment: Note}
-S1. So groß ist der Herr
+{comment: Related Song}
+So groß ist der Herr
 
 {comment: Verse 1}
 The [G]splendor of the King [Em7]clothed in majesty

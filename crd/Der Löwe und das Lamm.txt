@@ -9,8 +9,9 @@
 {copyright: Meaux Mercy | The Devil Is A Liar! Publishing | Thankyou Music | Bethel Music Publishing}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
+{comment: Related Song}
+The lion and the lamb
 {comment: Note}
-T2. The lion and the lamb
 Capo 4
 
 {comment: Vers 1}

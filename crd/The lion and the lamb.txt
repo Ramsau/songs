@@ -8,8 +8,10 @@
 {copyright: 2015 Meaux Mercy | The Devil Is A Liar! Publishing | Thankyou Music | Bethel Music Publishing}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
+{comment: Related Song}
+Der Löwe und das Lamm
+
 {comment: Note}
-D4. Der Löwe und das Lamm
 Capo 4
 
 {comment: Verse 1}

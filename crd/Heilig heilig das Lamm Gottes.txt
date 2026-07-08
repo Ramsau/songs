@@ -8,8 +8,8 @@
 {copyright: 2004 Gateway Create Publishing}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
-{comment: Note}
-R1. Revelation Song
+{comment: Related Song}
+Revelation Song
 
 {comment: Vers 1}
 [D]    Heilig heilig    [Am7]  das Lamm Gottes

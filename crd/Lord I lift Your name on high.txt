@@ -1,0 +1,31 @@
+{title: Lord I Lift Your Name On High}
+{artist: Rick Founds}
+{subtitle: (as published by Maranatha! Music)}
+{key: G}
+{time: 4/4}
+{tempo: 86}
+{ccli_license: 757948}
+{ccli: 117947}
+{copyright: 1989 Universal Music - Brentwood Benson Publishing}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Related Song}
+Herr Dein Name sei erhöht
+
+{comment: Verse}
+[G]Lord I [C/G]lift Your name on [D/G]high    [C/G]
+[G]Lord I [C/G]love to sing Your [D/G]praises [C/G]
+[G]I'm so [C/G]glad You're in my [D/G]life      [C/G]
+[G]I'm so [C/G]glad You came to [D]save us [Dsus]    [D]    [C]
+
+{comment: Chorus}
+[G]You came from [C]heaven to [D]earth to [C/D]show the way
+[G]From the [C]earth to the [D]cross my [C]debt to pay
+[G]From the [C]cross to the [D]grave from the [Em7]grave to the [Am7]sky
+Lord I [D]lift Your name on [G]high
+
+
+CCLI Song # 117947
+© 1989 Universal Music - Brentwood Benson Publishing
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 757948

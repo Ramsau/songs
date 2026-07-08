@@ -9,8 +9,8 @@
 {copyright: 2004 Laura Stories | sixsteps Music | worshiptogether.com songs}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
-{comment: Note}
-I4. Indescribable
+{comment: Related Song}
+Indescribable
 
 {comment: Vers 1}
 [Am]Von den Gipfeln der Welt zu den [Gsus/H]Tiefen des [C]Meers [C2]

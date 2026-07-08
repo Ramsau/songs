@@ -127,10 +127,14 @@ class Verse:
         return height
 
     def write_website(self, website: TextIO):
-        website.write(f"<h3>{self.description}</h3>\n  <p>")
+        if self.description == RELATED_SONG_NAME:
+            for line in self.lines:
+                website.write(f'<a href="#{line}">{line}</a>')
+        else:
+            website.write(f"<h3>{self.description}</h3>\n  <p>")
 
-        for line in self.lines:
-            line.write_website(website)
+            for line in self.lines:
+                line.write_website(website)
 
         website.write("  </p>")
 
@@ -210,10 +214,10 @@ class Song:
         return songs
 
     def write_website_header(self, website: TextIO):
-        website.write(f'<a href="#{self.number}"><h2 id="Index{self.number}">{self.number}. {self.title}</h2></a>\n')
+        website.write(f'<a href="#{self.title}"><h2 id="Index{self.title}">{self.number}. {self.title}</h2></a>\n')
 
     def write_website(self, website: TextIO):
-        website.write(f'<a href="#Index{self.number}"><h2 class="song-title" id="{self.number}">{self.number}. {self.title}</h2></a>\n')
+        website.write(f'<a href="#Index{self.title}"><h2 class="song-title" id="{self.title}">{self.number}. {self.title}</h2></a>\n')
 
         for verse in self.verses:
             verse.write_website(website)

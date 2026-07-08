@@ -10,8 +10,10 @@
 {time: 4/4}
 {tempo: 116}
 
+{comment: Related Song}
+Blessed be your name
+
 {comment: Note}
-B1. Blessed be your name
 Capo 1
 
 {comment: Vers 1}

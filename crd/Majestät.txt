@@ -8,8 +8,8 @@
 {copyright: 2003, 2004 Curious? Music UK}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
-{comment: Note}
-M6. Majesty
+{comment: Related Song}
+Majesty
 
 {comment: Vers 1}
 [Em]Hier   [D]bin   [Cmaj7]ich      [G/B]klein vor deiner Herrlich - [Cmaj7]keit 

@@ -4,6 +4,7 @@ CHORD_END = ']'
 VERSE_START = '{comment: '
 VERSE_END = '}'
 NOTE_NAME = 'Note'
+RELATED_SONG_NAME = "Related Song"
 
 VERSE_NEWPAGE = 'newPage'
 

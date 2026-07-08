@@ -8,8 +8,10 @@
 {copyright: 2002 Thankyou Music}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
+{comment: Related Song}
+Dir gehört mein Lob
+
 {comment: Note}
-D3. Dir gehört mein Lob
 Capo 1
 
 {comment: Verse 1}

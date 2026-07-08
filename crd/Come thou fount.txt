@@ -1,5 +1,5 @@
-{comment: Note}
-K1. Komm du Quelle
+{comment: Related Song}
+Komm du Quelle
 
 {comment: Strophe 1}
 [C]Come thou fount of every [G/B]blessing.

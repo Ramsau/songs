@@ -8,8 +8,8 @@
 {copyright: 2003, 2004 Curious? Music UK}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
-{comment: Note}
-M5. Majestät
+{comment: Related Song}
+Majestät
 
 {comment: Verse 1}
 [Em]Here      [D]I       [C]am           [G/B]humbled by Your majes - [C]ty 

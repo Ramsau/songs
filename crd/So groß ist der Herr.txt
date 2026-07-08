@@ -7,8 +7,8 @@
 {copyright: 2004 sixsteps Music | Vamos Publishing | worshiptogether.com songs | Wondrously Made Songs}
 {footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
 
-{comment: Note}
-H3. How great is our God
+{comment: Related Song}
+How great is our God
 
 {comment: Vers 1}
 Ein [G]König voller Pracht voll [Em7]Weisheit und voll Macht
