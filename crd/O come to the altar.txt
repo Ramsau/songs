@@ -1,34 +1,60 @@
+{title: O Come To The Altar}
+{artist: Chris Brown, Mack Brock, Steven Furtick, Wade Joye}
+{subtitle: (as published by Elevation Worship)}
+{key: C}
+{time: 6/8}
+{tempo: 140}
+{ccli_license: 757948}
+{ccli: 7051511}
+{copyright: 2015 Music by Elevation Worship Publishing}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Intro}
+[|] [C]         [|] [F]         [|] [C]         [|] [F]         [|] 
+
 {comment: Verse 1}
-[B]Are you [E] hurting and broken with[B]in,
-Over[E]whelmed by the weight of your [G#m]sin?
-Jesus is [E]calling
-[B]Have you [E]come to the end of your[B]self,
-Do you [E]thirst for a drink from the [G#m]well?
-Jesus is [E]calling
+[C]  Are you [F]hurting and broken with - [C]in 
+Over - [F]whelmed by the weight of your [Am]sin? Jesus is [F]calling 
+[C]  Have you [F]come to the end of your - [C]self 
+Do you [F]thirst for a drink from the [Am]well? Jesus is [F]calling 
 
 {comment: Chorus}
-[B]O come to [C#m]the altar
-[G#m]The Father's arms are [E]open wide
-[B]Forgiveness [C#m]was bought with
-[G#m]The precious blood of [E]Jesus [B]Christ
+[C]     O come to  [Dm]  the altar 
+[Am] The Father's arms are [F]open wide 
+[C]     Forgiveness  [Dm]  was bought with 
+[Am] The precious blood of [F]Jesus [C]Christ 
+
+{comment: Instrumental 1}
+[|] [C]         [|] [F]         [|] [C]         [|] [F]         [|] 
 
 {comment: Verse 2}
-[B]Leave be[E]hind your regrets and mis[B]takes
-Come to[E]day, there's no reason to [G#m]wait
-Jesus  is [E]calling
-[B]Bring your [E]sorrows and trade them for [B]joy
-From the [E]ashes a new life is [G#m]born
-Jesus is [E]calling
+[C]  Leave be - [F]hind your regrets and mis - [C]takes 
+Come to - [F]day there's no reason to [Am]wait, Jesus is [F]calling 
+[C]  Bring your [F]sorrows and trade them for [C]joy 
+From the [F]ashes a new life is [Am]born, Jesus is [F]calling 
+
+{comment: Instrumental 2}
+[|] [C]         [|] [C]         [|] [Am]       [|] [Am]       [|] [F]         [|] [F]         [|] 
 
 {comment: Bridge}
-Oh what a [B]saviour,
-Isn't He [G#m]wonderful
-Sing halle[E]lujah, Christ is risen[B]
-Bow down be[B]fore Him,
-For he is [G#m]Lord of all
-Sing halle[E]lujah, Christ is risen[B]
+Oh what a [C]Savior, isn't He [Am]wonderful 
+Sing alle - [F]luia, Christ is risen [C]
+Bow down be - [C]fore Him, for He is [Am]Lord of all 
+Sing alle - [F]luia, Christ is risen [C]
+
+{comment: Instrumental 3}
+[||:] [C]         [|] [Dm]     [|] [Am]     [|] [F]         [:||]
+[|] [C]         [|] [C]         [|] [C]         [|] [C]         [|] 
 
 {comment: Verse 3}
-[B]Bear your [E]cross as you wait for the [B]crown
-Tell the [A]world of the [E/G#]treasure you've [B]found
-Jesus is [E]calling
+[C]  Bear your [F]cross as you wait for the [C]crown 
+Tell the [Bb]world of the [F/A]treasure you've [C]found 
+
+{comment: Ending}
+[|] [C]         [|] [F]         [|] [C]         [|] [F]         [|] [C]         [|] 
+
+
+CCLI Song # 7051511
+© 2015 Music by Elevation Worship Publishing
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 757948
