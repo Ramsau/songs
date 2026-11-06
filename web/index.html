@@ -46,7 +46,7 @@
             #autoscroll-btn {
                 padding: 30px 45px;
                 font-size: 30pt;
-                background-color: #a1c9ff;
+                background-color: #758bac;
                 color: white;
                 border: none;
                 border-radius: 15px;
@@ -68,7 +68,7 @@
                 font-size: 30pt;
                 width: 60pt;
                 height: 60pt;
-                background-color: #a1c9ff;
+                background-color: #758bac;
                 color: white;
                 border: none;
                 border-radius: 100%;
@@ -79,6 +79,18 @@
                 font-size: 30pt;
                 margin: 0 5px;
                 padding: 15px 15px;
+            }
+            .transpose-btn {
+                padding: 10px;
+                font-size: 30pt;
+                width: 60pt;
+                height: 60pt;
+                background-color: #758bac;
+                color: white;
+                border: none;
+                border-radius: 100%;
+                cursor: pointer;
+                margin: 0 5px;
             }
         </style>
         <script src="script.js"></script>
@@ -162,8 +174,9 @@
 <a href="#Wunderbarer Gott"><h2 id="IndexWunderbarer Gott">66. Wunderbarer Gott</h2></a>
 <a href="#Yet not I but through Christ in me"><h2 id="IndexYet not I but through Christ in me">67. Yet not I but through Christ in me</h2></a>
 <a href="#Zwischen Himmel und Erde"><h2 id="IndexZwischen Himmel und Erde">68. Zwischen Himmel und Erde</h2></a>
+<div id="10 000 Gründe-box">
 <a href="#Index10 000 Gründe"><h2 class="song-title" id="10 000 Gründe">1. 10 000 Gründe</h2></a>
-<a href="#10 000 Reasons">10 000 Reasons</a>  </p><h3>Refrain</h3>
+<button class="transpose-btn" onclick="transposeSong('10 000 Gründe-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('10 000 Gründe-box', 1)">+1</button><a href="#10 000 Reasons">10 000 Reasons</a>  </p><h3>Refrain</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Komm und </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">lobe den </span></span>
@@ -404,8 +417,10 @@
 <span class="line-segment"><span class="chord">G/D</span><span class="text"> </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text"></span></span>
 </div>
-  </p><a href="#Index10 000 Reasons"><h2 class="song-title" id="10 000 Reasons">2. 10 000 Reasons</h2></a>
-<a href="#10 000 Gründe">10 000 Gründe</a>  </p><h3>Refrain</h3>
+  </p></div>
+<div id="10 000 Reasons-box">
+<a href="#Index10 000 Reasons"><h2 class="song-title" id="10 000 Reasons">2. 10 000 Reasons</h2></a>
+<button class="transpose-btn" onclick="transposeSong('10 000 Reasons-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('10 000 Reasons-box', 1)">+1</button><a href="#10 000 Gründe">10 000 Gründe</a>  </p><h3>Refrain</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Bless the </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">Lord, o my </span></span>
@@ -652,8 +667,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text"> </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text"></span></span>
 </div>
-  </p><a href="#IndexAbove all"><h2 class="song-title" id="Above all">3. Above all</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="Above all-box">
+<a href="#IndexAbove all"><h2 class="song-title" id="Above all">3. Above all</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Above all-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Above all-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">A</span></span>
 <span class="line-segment"><span class="chord">A</span><span class="text">bove all </span></span>
@@ -764,8 +781,10 @@
 <span class="line-segment"><span class="chord">A</span><span class="text"> </span></span>
 <span class="line-segment"><span class="chord">|</span><span class="text"> </span></span>
 </div>
-  </p><a href="#IndexAgnus Dei"><h2 class="song-title" id="Agnus Dei">4. Agnus Dei</h2></a>
-<h3>Verse</h3>
+  </p></div>
+<div id="Agnus Dei-box">
+<a href="#IndexAgnus Dei"><h2 class="song-title" id="Agnus Dei">4. Agnus Dei</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Agnus Dei-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Agnus Dei-box', 1)">+1</button><h3>Verse</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">Alle</span></span>
@@ -860,8 +879,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">- </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">men</span></span>
 </div>
-  </p><a href="#IndexAll I have is Christ"><h2 class="song-title" id="All I have is Christ">5. All I have is Christ</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="All I have is Christ-box">
+<a href="#IndexAll I have is Christ"><h2 class="song-title" id="All I have is Christ">5. All I have is Christ</h2></a>
+<button class="transpose-btn" onclick="transposeSong('All I have is Christ-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('All I have is Christ-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">I once was </span></span>
 <span class="line-segment"><span class="chord">A</span><span class="text">lost in darkest </span></span>
@@ -982,8 +1003,10 @@
 <span class="line-segment"><span class="chord">A</span><span class="text">is my </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">life</span></span>
 </div>
-  </p><a href="#IndexAllein deine Gnade genügt"><h2 class="song-title" id="Allein deine Gnade genügt">6. Allein deine Gnade genügt</h2></a>
-<h3>Chorus</h3>
+  </p></div>
+<div id="Allein deine Gnade genügt-box">
+<a href="#IndexAllein deine Gnade genügt"><h2 class="song-title" id="Allein deine Gnade genügt">6. Allein deine Gnade genügt</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Allein deine Gnade genügt-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Allein deine Gnade genügt-box', 1)">+1</button><h3>Chorus</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Al</span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">lein Deine </span></span>
@@ -1143,8 +1166,10 @@
 <span class="line-segment"><span class="chord">C</span><span class="text"> </span></span>
 <span class="line-segment"><span class="chord">F/G</span><span class="text"></span></span>
 </div>
-  </p><a href="#IndexAmazing Grace"><h2 class="song-title" id="Amazing Grace">7. Amazing Grace</h2></a>
-<h3>Note</h3>
+  </p></div>
+<div id="Amazing Grace-box">
+<a href="#IndexAmazing Grace"><h2 class="song-title" id="Amazing Grace">7. Amazing Grace</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Amazing Grace-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Amazing Grace-box', 1)">+1</button><h3>Note</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Capo 4</span></span>
 </div>
@@ -1303,8 +1328,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">forever </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">mine</span></span>
 </div>
-  </p><a href="#IndexAwesome God"><h2 class="song-title" id="Awesome God">8. Awesome God</h2></a>
-<h3>Strophe 1</h3>
+  </p></div>
+<div id="Awesome God-box">
+<a href="#IndexAwesome God"><h2 class="song-title" id="Awesome God">8. Awesome God</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Awesome God-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Awesome God-box', 1)">+1</button><h3>Strophe 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">Em</span><span class="text">When he rolls up his sleeve he ain't puttin' on the ritz</span></span>
@@ -1438,8 +1465,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">some </span></span>
 <span class="line-segment"><span class="chord">Em</span><span class="text">God!</span></span>
 </div>
-  </p><a href="#IndexBattle Belongs"><h2 class="song-title" id="Battle Belongs">9. Battle Belongs</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="Battle Belongs-box">
+<a href="#IndexBattle Belongs"><h2 class="song-title" id="Battle Belongs">9. Battle Belongs</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Battle Belongs-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Battle Belongs-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text"> When all I see is the battle, You see my </span></span>
@@ -1609,8 +1638,10 @@
 <span class="line-segment"><span class="chord">A</span><span class="text">longs to </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">You</span></span>
 </div>
-  </p><a href="#IndexBlessed be your name"><h2 class="song-title" id="Blessed be your name">10. Blessed be your name</h2></a>
-<a href="#Dir gehört mein Lob">Dir gehört mein Lob</a>  </p><h3>Note</h3>
+  </p></div>
+<div id="Blessed be your name-box">
+<a href="#IndexBlessed be your name"><h2 class="song-title" id="Blessed be your name">10. Blessed be your name</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Blessed be your name-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Blessed be your name-box', 1)">+1</button><a href="#Dir gehört mein Lob">Dir gehört mein Lob</a>  </p><h3>Note</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Capo 1</span></span>
 </div>
@@ -1811,8 +1842,10 @@
 <span class="line-segment"><span class="chord">E</span><span class="text">rious </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">name</span></span>
 </div>
-  </p><a href="#IndexCome thou fount"><h2 class="song-title" id="Come thou fount">11. Come thou fount</h2></a>
-<a href="#Komm du Quelle">Komm du Quelle</a>  </p><h3>Strophe 1</h3>
+  </p></div>
+<div id="Come thou fount-box">
+<a href="#IndexCome thou fount"><h2 class="song-title" id="Come thou fount">11. Come thou fount</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Come thou fount-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Come thou fount-box', 1)">+1</button><a href="#Komm du Quelle">Komm du Quelle</a>  </p><h3>Strophe 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">Come thou fount of every </span></span>
@@ -1947,8 +1980,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text">courts </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">above.</span></span>
 </div>
-  </p><a href="#IndexCornerstone"><h2 class="song-title" id="Cornerstone">12. Cornerstone</h2></a>
-<h3>Intro</h3>
+  </p></div>
+<div id="Cornerstone-box">
+<a href="#IndexCornerstone"><h2 class="song-title" id="Cornerstone">12. Cornerstone</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Cornerstone-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Cornerstone-box', 1)">+1</button><h3>Intro</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">|</span><span class="text"></span></span>
@@ -2108,8 +2143,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text">Lord, Lord of </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">all</span></span>
 </div>
-  </p><a href="#IndexDeath was arrested"><h2 class="song-title" id="Death was arrested">13. Death was arrested</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="Death was arrested-box">
+<a href="#IndexDeath was arrested"><h2 class="song-title" id="Death was arrested">13. Death was arrested</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Death was arrested-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Death was arrested-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">A</span></span>
 <span class="line-segment"><span class="chord">A</span><span class="text">lone in my sorrow and </span></span>
@@ -2301,8 +2338,10 @@
 <span class="line-segment"><span class="chord">E</span><span class="text">my life be</span></span>
 <span class="line-segment"><span class="chord">A</span><span class="text">gan</span></span>
 </div>
-  </p><a href="#IndexDer Einzige"><h2 class="song-title" id="Der Einzige">14. Der Einzige</h2></a>
-<h3>Note</h3>
+  </p></div>
+<div id="Der Einzige-box">
+<a href="#IndexDer Einzige"><h2 class="song-title" id="Der Einzige">14. Der Einzige</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Der Einzige-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Der Einzige-box', 1)">+1</button><h3>Note</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Capo 1</span></span>
 </div>
@@ -2465,8 +2504,10 @@
 <span class="line-segment"><span class="chord">Em</span><span class="text">wird nie ver</span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">gehn</span></span>
 </div>
-  </p><a href="#IndexDer Löwe und das Lamm"><h2 class="song-title" id="Der Löwe und das Lamm">15. Der Löwe und das Lamm</h2></a>
-<a href="#The lion and the lamb">The lion and the lamb</a>  </p><h3>Note</h3>
+  </p></div>
+<div id="Der Löwe und das Lamm-box">
+<a href="#IndexDer Löwe und das Lamm"><h2 class="song-title" id="Der Löwe und das Lamm">15. Der Löwe und das Lamm</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Der Löwe und das Lamm-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Der Löwe und das Lamm-box', 1)">+1</button><a href="#The lion and the lamb">The lion and the lamb</a>  </p><h3>Note</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Capo 4</span></span>
 </div>
@@ -2633,8 +2674,10 @@
 <span class="line-segment"><span class="text">Jeder wird sich </span></span>
 <span class="line-segment"><span class="chord">Dsus</span><span class="text">vor ihm beugen</span></span>
 </div>
-  </p><a href="#IndexDie Herrlichkeit des Herrn"><h2 class="song-title" id="Die Herrlichkeit des Herrn">16. Die Herrlichkeit des Herrn</h2></a>
-<h3>Strophe</h3>
+  </p></div>
+<div id="Die Herrlichkeit des Herrn-box">
+<a href="#IndexDie Herrlichkeit des Herrn"><h2 class="song-title" id="Die Herrlichkeit des Herrn">16. Die Herrlichkeit des Herrn</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Die Herrlichkeit des Herrn-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Die Herrlichkeit des Herrn-box', 1)">+1</button><h3>Strophe</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">Die Herrlichkeit des </span></span>
@@ -2663,8 +2706,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text">lang ich </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">bin.</span></span>
 </div>
-  </p><a href="#IndexDir gehört mein Lob"><h2 class="song-title" id="Dir gehört mein Lob">17. Dir gehört mein Lob</h2></a>
-<a href="#Blessed be your name">Blessed be your name</a>  </p><h3>Note</h3>
+  </p></div>
+<div id="Dir gehört mein Lob-box">
+<a href="#IndexDir gehört mein Lob"><h2 class="song-title" id="Dir gehört mein Lob">17. Dir gehört mein Lob</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Dir gehört mein Lob-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Dir gehört mein Lob-box', 1)">+1</button><a href="#Blessed be your name">Blessed be your name</a>  </p><h3>Note</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Capo 1</span></span>
 </div>
@@ -2832,8 +2877,10 @@
 <span class="line-segment"><span class="chord">F#m7</span><span class="text">preise ich </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">Herr</span></span>
 </div>
-  </p><a href="#IndexEin Gott der das Meer teilt"><h2 class="song-title" id="Ein Gott der das Meer teilt">18. Ein Gott der das Meer teilt</h2></a>
-<h3>Intro</h3>
+  </p></div>
+<div id="Ein Gott der das Meer teilt-box">
+<a href="#IndexEin Gott der das Meer teilt"><h2 class="song-title" id="Ein Gott der das Meer teilt">18. Ein Gott der das Meer teilt</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Ein Gott der das Meer teilt-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Ein Gott der das Meer teilt-box', 1)">+1</button><h3>Intro</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">|</span><span class="text"></span></span>
@@ -3021,8 +3068,10 @@
 <span class="line-segment"><span class="chord">C</span><span class="text"> </span></span>
 <span class="line-segment"><span class="chord">Bb)</span><span class="text"> (Schluss)</span></span>
 </div>
-  </p><a href="#IndexEwigkeit"><h2 class="song-title" id="Ewigkeit">19. Ewigkeit</h2></a>
-<h3>Intro</h3>
+  </p></div>
+<div id="Ewigkeit-box">
+<a href="#IndexEwigkeit"><h2 class="song-title" id="Ewigkeit">19. Ewigkeit</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Ewigkeit-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Ewigkeit-box', 1)">+1</button><h3>Intro</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">|</span><span class="text"></span></span>
@@ -3214,8 +3263,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">über </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">stehn</span></span>
 </div>
-  </p><a href="#IndexGood Good Father"><h2 class="song-title" id="Good Good Father">20. Good Good Father</h2></a>
-<h3>Note</h3>
+  </p></div>
+<div id="Good Good Father-box">
+<a href="#IndexGood Good Father"><h2 class="song-title" id="Good Good Father">20. Good Good Father</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Good Good Father-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Good Good Father-box', 1)">+1</button><h3>Note</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Capo 3</span></span>
 </div>
@@ -3389,8 +3440,10 @@
 <span class="line-segment"><span class="chord">Am7</span><span class="text">am, it's who I </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">am</span></span>
 </div>
-  </p><a href="#IndexGroßer Gott wir loben Dich"><h2 class="song-title" id="Großer Gott wir loben Dich">21. Großer Gott wir loben Dich</h2></a>
-<h3>VERS 1</h3>
+  </p></div>
+<div id="Großer Gott wir loben Dich-box">
+<a href="#IndexGroßer Gott wir loben Dich"><h2 class="song-title" id="Großer Gott wir loben Dich">21. Großer Gott wir loben Dich</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Großer Gott wir loben Dich-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Großer Gott wir loben Dich-box', 1)">+1</button><h3>VERS 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">F</span><span class="text">Großer Gott wir </span></span>
@@ -3663,8 +3716,10 @@
 <span class="line-segment"><span class="chord">C</span><span class="text">loren </span></span>
 <span class="line-segment"><span class="chord">F</span><span class="text">sein</span></span>
 </div>
-  </p><a href="#IndexHalleluja lobet Gott"><h2 class="song-title" id="Halleluja lobet Gott">22. Halleluja lobet Gott</h2></a>
-<h3>Vers 1</h3>
+  </p></div>
+<div id="Halleluja lobet Gott-box">
+<a href="#IndexHalleluja lobet Gott"><h2 class="song-title" id="Halleluja lobet Gott">22. Halleluja lobet Gott</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Halleluja lobet Gott-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Halleluja lobet Gott-box', 1)">+1</button><h3>Vers 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">Halleluja </span></span>
@@ -3832,8 +3887,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text">lu</span></span>
 <span class="line-segment"><span class="chord">Am</span><span class="text">ja</span></span>
 </div>
-  </p><a href="#IndexHe will hold me fast"><h2 class="song-title" id="He will hold me fast">23. He will hold me fast</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="He will hold me fast-box">
+<a href="#IndexHe will hold me fast"><h2 class="song-title" id="He will hold me fast">23. He will hold me fast</h2></a>
+<button class="transpose-btn" onclick="transposeSong('He will hold me fast-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('He will hold me fast-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">When I fear my </span></span>
@@ -4015,8 +4072,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">hold me </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">fast</span></span>
 </div>
-  </p><a href="#IndexHeilig heilig das Lamm Gottes"><h2 class="song-title" id="Heilig heilig das Lamm Gottes">24. Heilig heilig das Lamm Gottes</h2></a>
-<a href="#Revelation Song">Revelation Song</a>  </p><h3>Vers 1</h3>
+  </p></div>
+<div id="Heilig heilig das Lamm Gottes-box">
+<a href="#IndexHeilig heilig das Lamm Gottes"><h2 class="song-title" id="Heilig heilig das Lamm Gottes">24. Heilig heilig das Lamm Gottes</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Heilig heilig das Lamm Gottes-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Heilig heilig das Lamm Gottes-box', 1)">+1</button><a href="#Revelation Song">Revelation Song</a>  </p><h3>Vers 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text"> Heilig heilig </span></span>
@@ -4145,8 +4204,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text">ich will dich ehren </span></span>
 <span class="line-segment"><span class="chord">(D)</span><span class="text"></span></span>
 </div>
-  </p><a href="#IndexHerr Dein Name sei erhöht"><h2 class="song-title" id="Herr Dein Name sei erhöht">25. Herr Dein Name sei erhöht</h2></a>
-<a href="#Lord I lift Your name on high">Lord I lift Your name on high</a>  </p><h3>Vers</h3>
+  </p></div>
+<div id="Herr Dein Name sei erhöht-box">
+<a href="#IndexHerr Dein Name sei erhöht"><h2 class="song-title" id="Herr Dein Name sei erhöht">25. Herr Dein Name sei erhöht</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Herr Dein Name sei erhöht-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Herr Dein Name sei erhöht-box', 1)">+1</button><a href="#Lord I lift Your name on high">Lord I lift Your name on high</a>  </p><h3>Vers</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text"> Herr dein </span></span>
@@ -4208,8 +4269,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">Name sei er</span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">höht </span></span>
 </div>
-  </p><a href="#IndexHerr ich komme zu dir"><h2 class="song-title" id="Herr ich komme zu dir">26. Herr ich komme zu dir</h2></a>
-<h3>Vers</h3>
+  </p></div>
+<div id="Herr ich komme zu dir-box">
+<a href="#IndexHerr ich komme zu dir"><h2 class="song-title" id="Herr ich komme zu dir">26. Herr ich komme zu dir</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Herr ich komme zu dir-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Herr ich komme zu dir-box', 1)">+1</button><h3>Vers</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">A</span><span class="text">Herr ich </span></span>
@@ -4288,8 +4351,10 @@
 <span class="line-segment"><span class="chord">E</span><span class="text">Lob in </span></span>
 <span class="line-segment"><span class="chord">A</span><span class="text">mir</span></span>
 </div>
-  </p><a href="#IndexHis Mercy is more"><h2 class="song-title" id="His Mercy is more">27. His Mercy is more</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="His Mercy is more-box">
+<a href="#IndexHis Mercy is more"><h2 class="song-title" id="His Mercy is more">27. His Mercy is more</h2></a>
+<button class="transpose-btn" onclick="transposeSong('His Mercy is more-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('His Mercy is more-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">What </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">love could re</span></span>
@@ -4415,8 +4480,10 @@
 <span class="line-segment"><span class="chord">Dsus</span><span class="text">mercy is </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">more</span></span>
 </div>
-  </p><a href="#IndexHöher"><h2 class="song-title" id="Höher">28. Höher</h2></a>
-<h3>Vers 1</h3>
+  </p></div>
+<div id="Höher-box">
+<a href="#IndexHöher"><h2 class="song-title" id="Höher">28. Höher</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Höher-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Höher-box', 1)">+1</button><h3>Vers 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Du sagst </span></span>
 <span class="line-segment"><span class="chord">A</span><span class="text">wo die Sonne aufgeht</span></span>
@@ -4548,8 +4615,10 @@
 <span class="line-segment"><span class="chord">E</span><span class="text">Schöpfer der </span></span>
 <span class="line-segment"><span class="chord">A</span><span class="text">Welt</span></span>
 </div>
-  </p><a href="#IndexHow great is our God"><h2 class="song-title" id="How great is our God">29. How great is our God</h2></a>
-<a href="#So groß ist der Herr">So groß ist der Herr</a>  </p><h3>Verse 1</h3>
+  </p></div>
+<div id="How great is our God-box">
+<a href="#IndexHow great is our God"><h2 class="song-title" id="How great is our God">29. How great is our God</h2></a>
+<button class="transpose-btn" onclick="transposeSong('How great is our God-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('How great is our God-box', 1)">+1</button><a href="#So groß ist der Herr">So groß ist der Herr</a>  </p><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">The </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">splendor of the King </span></span>
@@ -4654,8 +4723,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">great is our </span></span>
 <span class="line-segment"><span class="chord">G2</span><span class="text">God</span></span>
 </div>
-  </p><a href="#IndexHow great Thou art"><h2 class="song-title" id="How great Thou art">30. How great Thou art</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="How great Thou art-box">
+<a href="#IndexHow great Thou art"><h2 class="song-title" id="How great Thou art">30. How great Thou art</h2></a>
+<button class="transpose-btn" onclick="transposeSong('How great Thou art-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('How great Thou art-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">O Lord my </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">God, when I in </span></span>
@@ -4859,8 +4930,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text"> how great Thou </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">art</span></span>
 </div>
-  </p><a href="#IndexHow vast the love"><h2 class="song-title" id="How vast the love">31. How vast the love</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="How vast the love-box">
+<a href="#IndexHow vast the love"><h2 class="song-title" id="How vast the love">31. How vast the love</h2></a>
+<button class="transpose-btn" onclick="transposeSong('How vast the love-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('How vast the love-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Come </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">gaze upon your Savior, be</span></span>
@@ -5003,8 +5076,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text"> us </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text"></span></span>
 </div>
-  </p><a href="#IndexIn Christ alone"><h2 class="song-title" id="In Christ alone">32. In Christ alone</h2></a>
-<a href="#In Christus">In Christus</a>  </p><h3>Strophe 1</h3>
+  </p></div>
+<div id="In Christ alone-box">
+<a href="#IndexIn Christ alone"><h2 class="song-title" id="In Christ alone">32. In Christ alone</h2></a>
+<button class="transpose-btn" onclick="transposeSong('In Christ alone-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('In Christ alone-box', 1)">+1</button><a href="#In Christus">In Christus</a>  </p><h3>Strophe 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">In </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">Christ </span></span>
@@ -5240,8 +5315,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text"> </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text"></span></span>
 </div>
-  </p><a href="#IndexIn Christus"><h2 class="song-title" id="In Christus">33. In Christus</h2></a>
-<a href="#In Christ alone">In Christ alone</a>  </p><h3>Vers 1</h3>
+  </p></div>
+<div id="In Christus-box">
+<a href="#IndexIn Christus"><h2 class="song-title" id="In Christus">33. In Christus</h2></a>
+<button class="transpose-btn" onclick="transposeSong('In Christus-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('In Christus-box', 1)">+1</button><a href="#In Christ alone">In Christ alone</a>  </p><h3>Vers 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">In </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">Christus </span></span>
@@ -5477,8 +5554,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text"> </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text"></span></span>
 </div>
-  </p><a href="#IndexIndescribable"><h2 class="song-title" id="Indescribable">34. Indescribable</h2></a>
-<a href="#Unbeschreiblicher">Unbeschreiblicher</a>  </p><h3>Verse 1</h3>
+  </p></div>
+<div id="Indescribable-box">
+<a href="#IndexIndescribable"><h2 class="song-title" id="Indescribable">34. Indescribable</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Indescribable-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Indescribable-box', 1)">+1</button><a href="#Unbeschreiblicher">Unbeschreiblicher</a>  </p><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">Am</span><span class="text"> From the highest of heights to the </span></span>
@@ -5604,8 +5683,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text">You are amaz</span></span>
 <span class="line-segment"><span class="chord">F</span><span class="text">ing God</span></span>
 </div>
-  </p><a href="#IndexIt Is Well"><h2 class="song-title" id="It Is Well">35. It Is Well</h2></a>
-<h3>Intro</h3>
+  </p></div>
+<div id="It Is Well-box">
+<a href="#IndexIt Is Well"><h2 class="song-title" id="It Is Well">35. It Is Well</h2></a>
+<button class="transpose-btn" onclick="transposeSong('It Is Well-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('It Is Well-box', 1)">+1</button><h3>Intro</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text"></span></span>
@@ -5806,8 +5887,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">with my </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">soul</span></span>
 </div>
-  </p><a href="#IndexJesus paid it all"><h2 class="song-title" id="Jesus paid it all">36. Jesus paid it all</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="Jesus paid it all-box">
+<a href="#IndexJesus paid it all"><h2 class="song-title" id="Jesus paid it all">36. Jesus paid it all</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Jesus paid it all-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Jesus paid it all-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">I hear the Savior say</span></span>
@@ -5979,8 +6062,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">white as </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">snow</span></span>
 </div>
-  </p><a href="#IndexKomm du Quelle"><h2 class="song-title" id="Komm du Quelle">37. Komm du Quelle</h2></a>
-<a href="#Come thou fount">Come thou fount</a>  </p><h3>Verse 1</h3>
+  </p></div>
+<div id="Komm du Quelle-box">
+<a href="#IndexKomm du Quelle"><h2 class="song-title" id="Komm du Quelle">37. Komm du Quelle</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Komm du Quelle-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Komm du Quelle-box', 1)">+1</button><a href="#Come thou fount">Come thou fount</a>  </p><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">Komm, du Quelle alles </span></span>
@@ -6115,8 +6200,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text">Ewig</span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">keit</span></span>
 </div>
-  </p><a href="#IndexLet us adore"><h2 class="song-title" id="Let us adore">38. Let us adore</h2></a>
-<h3>Chorus</h3>
+  </p></div>
+<div id="Let us adore-box">
+<a href="#IndexLet us adore"><h2 class="song-title" id="Let us adore">38. Let us adore</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Let us adore-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Let us adore-box', 1)">+1</button><h3>Chorus</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">Bm</span><span class="text">Let us adore (let us adore) </span></span>
@@ -6178,8 +6265,10 @@
 <span class="line-segment"><span class="chord">A</span><span class="text">none </span></span>
 <span class="line-segment"><span class="chord">Bm</span><span class="text">else</span></span>
 </div>
-  </p><a href="#IndexLight of the World"><h2 class="song-title" id="Light of the World">39. Light of the World</h2></a>
-<h3>Strophe 1</h3>
+  </p></div>
+<div id="Light of the World-box">
+<a href="#IndexLight of the World"><h2 class="song-title" id="Light of the World">39. Light of the World</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Light of the World-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Light of the World-box', 1)">+1</button><h3>Strophe 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">Light of the </span></span>
@@ -6325,8 +6414,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">wonderful to </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">me</span></span>
 </div>
-  </p><a href="#IndexLiving Hope"><h2 class="song-title" id="Living Hope">40. Living Hope</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="Living Hope-box">
+<a href="#IndexLiving Hope"><h2 class="song-title" id="Living Hope">40. Living Hope</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Living Hope-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Living Hope-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">How great the </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">chasm that lay be</span></span>
@@ -6508,8 +6599,10 @@
 <span class="line-segment"><span class="chord">Am</span><span class="text">hope </span></span>
 <span class="line-segment"><span class="chord">C/E</span><span class="text"></span></span>
 </div>
-  </p><a href="#IndexLord I lift Your name on high"><h2 class="song-title" id="Lord I lift Your name on high">41. Lord I lift Your name on high</h2></a>
-<a href="#Herr Dein Name sei erhöht">Herr Dein Name sei erhöht</a>  </p><h3>Verse</h3>
+  </p></div>
+<div id="Lord I lift Your name on high-box">
+<a href="#IndexLord I lift Your name on high"><h2 class="song-title" id="Lord I lift Your name on high">41. Lord I lift Your name on high</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Lord I lift Your name on high-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Lord I lift Your name on high-box', 1)">+1</button><a href="#Herr Dein Name sei erhöht">Herr Dein Name sei erhöht</a>  </p><h3>Verse</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">Lord I </span></span>
@@ -6568,8 +6661,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">lift Your name on </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">high</span></span>
 </div>
-  </p><a href="#IndexMajestät"><h2 class="song-title" id="Majestät">42. Majestät</h2></a>
-<a href="#Majesty">Majesty</a>  </p><h3>Vers 1</h3>
+  </p></div>
+<div id="Majestät-box">
+<a href="#IndexMajestät"><h2 class="song-title" id="Majestät">42. Majestät</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Majestät-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Majestät-box', 1)">+1</button><a href="#Majesty">Majesty</a>  </p><h3>Vers 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">Em</span><span class="text">Hier </span></span>
@@ -6685,8 +6780,10 @@
 <span class="line-segment"><span class="text">Majes</span></span>
 <span class="line-segment"><span class="chord">Cmaj7</span><span class="text">tät </span></span>
 </div>
-  </p><a href="#IndexMajesty"><h2 class="song-title" id="Majesty">43. Majesty</h2></a>
-<a href="#Majestät">Majestät</a>  </p><h3>Verse 1</h3>
+  </p></div>
+<div id="Majesty-box">
+<a href="#IndexMajesty"><h2 class="song-title" id="Majesty">43. Majesty</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Majesty-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Majesty-box', 1)">+1</button><a href="#Majestät">Majestät</a>  </p><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">Em</span><span class="text">Here </span></span>
@@ -6819,8 +6916,10 @@
 <span class="line-segment"><span class="text">Majes</span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">ty </span></span>
 </div>
-  </p><a href="#IndexMighty to save"><h2 class="song-title" id="Mighty to save">44. Mighty to save</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="Mighty to save-box">
+<a href="#IndexMighty to save"><h2 class="song-title" id="Mighty to save">44. Mighty to save</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Mighty to save-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Mighty to save-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text"> Ev'ryone needs com</span></span>
@@ -6965,8 +7064,10 @@
 <span class="line-segment"><span class="chord">Em</span><span class="text">conquered the </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">grave</span></span>
 </div>
-  </p><a href="#IndexMittelpunkt"><h2 class="song-title" id="Mittelpunkt">45. Mittelpunkt</h2></a>
-<h3>Note</h3>
+  </p></div>
+<div id="Mittelpunkt-box">
+<a href="#IndexMittelpunkt"><h2 class="song-title" id="Mittelpunkt">45. Mittelpunkt</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Mittelpunkt-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Mittelpunkt-box', 1)">+1</button><h3>Note</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Capo 1</span></span>
 </div>
@@ -7074,8 +7175,10 @@
 <span class="line-segment"><span class="chord">Em</span><span class="text">dir </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text"></span></span>
 </div>
-  </p><a href="#IndexMutig komm ich vor den Thron"><h2 class="song-title" id="Mutig komm ich vor den Thron">46. Mutig komm ich vor den Thron</h2></a>
-<h3>Strophe 1</h3>
+  </p></div>
+<div id="Mutig komm ich vor den Thron-box">
+<a href="#IndexMutig komm ich vor den Thron"><h2 class="song-title" id="Mutig komm ich vor den Thron">46. Mutig komm ich vor den Thron</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Mutig komm ich vor den Thron-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Mutig komm ich vor den Thron-box', 1)">+1</button><h3>Strophe 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">Em</span><span class="text">Allein durch </span></span>
@@ -7317,8 +7420,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">darf ich </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">sein.</span></span>
 </div>
-  </p><a href="#IndexMy Lighthouse"><h2 class="song-title" id="My Lighthouse">47. My Lighthouse</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="My Lighthouse-box">
+<a href="#IndexMy Lighthouse"><h2 class="song-title" id="My Lighthouse">47. My Lighthouse</h2></a>
+<button class="transpose-btn" onclick="transposeSong('My Lighthouse-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('My Lighthouse-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">In my wrestling and </span></span>
@@ -7567,8 +7672,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text"> safe to </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">shore</span></span>
 </div>
-  </p><a href="#IndexO come to the altar"><h2 class="song-title" id="O come to the altar">48. O come to the altar</h2></a>
-<h3>Intro</h3>
+  </p></div>
+<div id="O come to the altar-box">
+<a href="#IndexO come to the altar"><h2 class="song-title" id="O come to the altar">48. O come to the altar</h2></a>
+<button class="transpose-btn" onclick="transposeSong('O come to the altar-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('O come to the altar-box', 1)">+1</button><h3>Intro</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">|</span><span class="text"> </span></span>
@@ -7801,8 +7908,10 @@
 <span class="line-segment"><span class="chord">C</span><span class="text"> </span></span>
 <span class="line-segment"><span class="chord">|</span><span class="text"> </span></span>
 </div>
-  </p><a href="#IndexO praise the Name (Anástasis)"><h2 class="song-title" id="O praise the Name (Anástasis)">49. O praise the Name (Anástasis)</h2></a>
-<a href="#O preist den Namen (Anástasis)">O preist den Namen (Anástasis)</a>  </p><h3>Verse 1</h3>
+  </p></div>
+<div id="O praise the Name (Anástasis)-box">
+<a href="#IndexO praise the Name (Anástasis)"><h2 class="song-title" id="O praise the Name (Anástasis)">49. O praise the Name (Anástasis)</h2></a>
+<button class="transpose-btn" onclick="transposeSong('O praise the Name (Anástasis)-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('O praise the Name (Anástasis)-box', 1)">+1</button><a href="#O preist den Namen (Anástasis)">O preist den Namen (Anástasis)</a>  </p><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">I cast my </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">mind to Calvary </span></span>
@@ -7977,8 +8086,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">Lord our </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">God </span></span>
 </div>
-  </p><a href="#IndexO preist den Namen (Anástasis)"><h2 class="song-title" id="O preist den Namen (Anástasis)">50. O preist den Namen (Anástasis)</h2></a>
-<a href="#O praise the Name (Anástasis)">O praise the Name (Anástasis)</a>  </p><h3>Vers 1</h3>
+  </p></div>
+<div id="O preist den Namen (Anástasis)-box">
+<a href="#IndexO preist den Namen (Anástasis)"><h2 class="song-title" id="O preist den Namen (Anástasis)">50. O preist den Namen (Anástasis)</h2></a>
+<button class="transpose-btn" onclick="transposeSong('O preist den Namen (Anástasis)-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('O preist den Namen (Anástasis)-box', 1)">+1</button><a href="#O praise the Name (Anástasis)">O praise the Name (Anástasis)</a>  </p><h3>Vers 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Ich denk zu</span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">rück an Golgatha</span></span>
@@ -8153,8 +8264,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">Herr mein </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">Gott</span></span>
 </div>
-  </p><a href="#IndexOana fa uns"><h2 class="song-title" id="Oana fa uns">51. Oana fa uns</h2></a>
-<h3>Strophe 1</h3>
+  </p></div>
+<div id="Oana fa uns-box">
+<a href="#IndexOana fa uns"><h2 class="song-title" id="Oana fa uns">51. Oana fa uns</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Oana fa uns-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Oana fa uns-box', 1)">+1</button><h3>Strophe 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Wonn du </span></span>
 <span class="line-segment"><span class="chord">Am</span><span class="text">domois </span></span>
@@ -8452,8 +8565,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text"></span></span>
 <span class="line-segment"><span class="chord">Am</span><span class="text">mi!</span></span>
 </div>
-  </p><a href="#IndexOnly a holy God"><h2 class="song-title" id="Only a holy God">52. Only a holy God</h2></a>
-<h3>Intro</h3>
+  </p></div>
+<div id="Only a holy God-box">
+<a href="#IndexOnly a holy God"><h2 class="song-title" id="Only a holy God">52. Only a holy God</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Only a holy God-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Only a holy God-box', 1)">+1</button><h3>Intro</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">|</span><span class="text"> </span></span>
@@ -8655,8 +8770,10 @@
 <span class="line-segment"><span class="chord">A</span><span class="text">Holy </span></span>
 <span class="line-segment"><span class="chord">Bm</span><span class="text">God</span></span>
 </div>
-  </p><a href="#IndexOur God"><h2 class="song-title" id="Our God">53. Our God</h2></a>
-<h3>Strophe 1</h3>
+  </p></div>
+<div id="Our God-box">
+<a href="#IndexOur God"><h2 class="song-title" id="Our God">53. Our God</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Our God-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Our God-box', 1)">+1</button><h3>Strophe 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">Em</span><span class="text">Water You turned </span></span>
@@ -8797,8 +8914,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text">God, Our </span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">God</span></span>
 </div>
-  </p><a href="#IndexPrince of Peace"><h2 class="song-title" id="Prince of Peace">54. Prince of Peace</h2></a>
-<h3>Strophe 1</h3>
+  </p></div>
+<div id="Prince of Peace-box">
+<a href="#IndexPrince of Peace"><h2 class="song-title" id="Prince of Peace">54. Prince of Peace</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Prince of Peace-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Prince of Peace-box', 1)">+1</button><h3>Strophe 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">You are </span></span>
 <span class="line-segment"><span class="chord">E</span><span class="text">holy (You are holy)</span></span>
@@ -8906,8 +9025,10 @@
 <span class="line-segment"><span class="chord">H</span><span class="text">live my life for </span></span>
 <span class="line-segment"><span class="chord">E</span><span class="text">You</span></span>
 </div>
-  </p><a href="#IndexRevelation Song"><h2 class="song-title" id="Revelation Song">55. Revelation Song</h2></a>
-<a href="#Heilig heilig das Lamm Gottes">Heilig heilig das Lamm Gottes</a>  </p><h3>Strophe 1</h3>
+  </p></div>
+<div id="Revelation Song-box">
+<a href="#IndexRevelation Song"><h2 class="song-title" id="Revelation Song">55. Revelation Song</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Revelation Song-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Revelation Song-box', 1)">+1</button><a href="#Heilig heilig das Lamm Gottes">Heilig heilig das Lamm Gottes</a>  </p><h3>Strophe 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text">Worthy is the </span></span>
@@ -9066,8 +9187,10 @@
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">And i will adore you</span></span>
 </div>
-  </p><a href="#IndexRun to the Father"><h2 class="song-title" id="Run to the Father">56. Run to the Father</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="Run to the Father-box">
+<a href="#IndexRun to the Father"><h2 class="song-title" id="Run to the Father">56. Run to the Father</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Run to the Father-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Run to the Father-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">A</span><span class="text"> I've carried a </span></span>
@@ -9239,8 +9362,10 @@
 <span class="line-segment"><span class="text">And again and a</span></span>
 <span class="line-segment"><span class="chord">A</span><span class="text">gain</span></span>
 </div>
-  </p><a href="#IndexSo groß ist der Herr"><h2 class="song-title" id="So groß ist der Herr">57. So groß ist der Herr</h2></a>
-<a href="#How great is our God">How great is our God</a>  </p><h3>Vers 1</h3>
+  </p></div>
+<div id="So groß ist der Herr-box">
+<a href="#IndexSo groß ist der Herr"><h2 class="song-title" id="So groß ist der Herr">57. So groß ist der Herr</h2></a>
+<button class="transpose-btn" onclick="transposeSong('So groß ist der Herr-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('So groß ist der Herr-box', 1)">+1</button><a href="#How great is our God">How great is our God</a>  </p><h3>Vers 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Ein </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">König voller Pracht voll </span></span>
@@ -9335,8 +9460,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">groß ist der </span></span>
 <span class="line-segment"><span class="chord">G2</span><span class="text">Herr</span></span>
 </div>
-  </p><a href="#IndexSurely goodness, surely mercy"><h2 class="song-title" id="Surely goodness, surely mercy">58. Surely goodness, surely mercy</h2></a>
-<h3>Note</h3>
+  </p></div>
+<div id="Surely goodness, surely mercy-box">
+<a href="#IndexSurely goodness, surely mercy"><h2 class="song-title" id="Surely goodness, surely mercy">58. Surely goodness, surely mercy</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Surely goodness, surely mercy-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Surely goodness, surely mercy-box', 1)">+1</button><h3>Note</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Capo 2</span></span>
 </div>
@@ -9498,8 +9625,10 @@
 <span class="line-segment"><span class="chord">Csus</span><span class="text">name </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text"></span></span>
 </div>
-  </p><a href="#IndexThe lion and the lamb"><h2 class="song-title" id="The lion and the lamb">59. The lion and the lamb</h2></a>
-<a href="#Der Löwe und das Lamm">Der Löwe und das Lamm</a>  </p><h3>Note</h3>
+  </p></div>
+<div id="The lion and the lamb-box">
+<a href="#IndexThe lion and the lamb"><h2 class="song-title" id="The lion and the lamb">59. The lion and the lamb</h2></a>
+<button class="transpose-btn" onclick="transposeSong('The lion and the lamb-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('The lion and the lamb-box', 1)">+1</button><a href="#Der Löwe und das Lamm">Der Löwe und das Lamm</a>  </p><h3>Note</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Capo 4</span></span>
 </div>
@@ -9666,8 +9795,10 @@
 <span class="line-segment"><span class="text">Every knee will </span></span>
 <span class="line-segment"><span class="chord">Dsus</span><span class="text">bow before Him</span></span>
 </div>
-  </p><a href="#IndexThis I believe"><h2 class="song-title" id="This I believe">60. This I believe</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="This I believe-box">
+<a href="#IndexThis I believe"><h2 class="song-title" id="This I believe">60. This I believe</h2></a>
+<button class="transpose-btn" onclick="transposeSong('This I believe-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('This I believe-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text"> Our Father ever</span></span>
@@ -9824,8 +9955,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">Jesus </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text"></span></span>
 </div>
-  </p><a href="#IndexUnbeschreiblicher"><h2 class="song-title" id="Unbeschreiblicher">61. Unbeschreiblicher</h2></a>
-<a href="#Indescribable">Indescribable</a>  </p><h3>Vers 1</h3>
+  </p></div>
+<div id="Unbeschreiblicher-box">
+<a href="#IndexUnbeschreiblicher"><h2 class="song-title" id="Unbeschreiblicher">61. Unbeschreiblicher</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Unbeschreiblicher-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Unbeschreiblicher-box', 1)">+1</button><a href="#Indescribable">Indescribable</a>  </p><h3>Vers 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">Am</span><span class="text">Von den Gipfeln der Welt zu den </span></span>
@@ -9951,8 +10084,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text">Du bist unglaublich </span></span>
 <span class="line-segment"><span class="chord">F</span><span class="text">Gott</span></span>
 </div>
-  </p><a href="#IndexWer ist ein Gott wie du"><h2 class="song-title" id="Wer ist ein Gott wie du">62. Wer ist ein Gott wie du</h2></a>
-<h3>Strophe</h3>
+  </p></div>
+<div id="Wer ist ein Gott wie du-box">
+<a href="#IndexWer ist ein Gott wie du"><h2 class="song-title" id="Wer ist ein Gott wie du">62. Wer ist ein Gott wie du</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Wer ist ein Gott wie du-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Wer ist ein Gott wie du-box', 1)">+1</button><h3>Strophe</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">Du hast Er</span></span>
@@ -10025,8 +10160,10 @@
 <span class="line-segment"><span class="chord">F</span><span class="text">gnädig zu </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">sein.</span></span>
 </div>
-  </p><a href="#IndexWhat a beautiful name"><h2 class="song-title" id="What a beautiful name">63. What a beautiful name</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="What a beautiful name-box">
+<a href="#IndexWhat a beautiful name"><h2 class="song-title" id="What a beautiful name">63. What a beautiful name</h2></a>
+<button class="transpose-btn" onclick="transposeSong('What a beautiful name-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('What a beautiful name-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">D</span><span class="text"> You were the Word at the beginning</span></span>
@@ -10189,8 +10326,10 @@
 <span class="line-segment"><span class="chord">A</span><span class="text">Name of </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">Jesus</span></span>
 </div>
-  </p><a href="#IndexWho am I"><h2 class="song-title" id="Who am I">64. Who am I</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="Who am I-box">
+<a href="#IndexWho am I"><h2 class="song-title" id="Who am I">64. Who am I</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Who am I-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Who am I-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">Who am </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">I that the </span></span>
@@ -10342,8 +10481,10 @@
 <span class="line-segment"><span class="text">I am </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">Yours</span></span>
 </div>
-  </p><a href="#IndexWhom shall I fear (God of angel armies)"><h2 class="song-title" id="Whom shall I fear (God of angel armies)">65. Whom shall I fear (God of angel armies)</h2></a>
-<h3>Strophe 1</h3>
+  </p></div>
+<div id="Whom shall I fear (God of angel armies)-box">
+<a href="#IndexWhom shall I fear (God of angel armies)"><h2 class="song-title" id="Whom shall I fear (God of angel armies)">65. Whom shall I fear (God of angel armies)</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Whom shall I fear (God of angel armies)-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Whom shall I fear (God of angel armies)-box', 1)">+1</button><h3>Strophe 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">You hear me when I call</span></span>
@@ -10473,8 +10614,10 @@
 <span class="line-segment"><span class="chord">D</span><span class="text">by my </span></span>
 <span class="line-segment"><span class="chord">G</span><span class="text">side</span></span>
 </div>
-  </p><a href="#IndexWunderbarer Gott"><h2 class="song-title" id="Wunderbarer Gott">66. Wunderbarer Gott</h2></a>
-<h3>Intro</h3>
+  </p></div>
+<div id="Wunderbarer Gott-box">
+<a href="#IndexWunderbarer Gott"><h2 class="song-title" id="Wunderbarer Gott">66. Wunderbarer Gott</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Wunderbarer Gott-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Wunderbarer Gott-box', 1)">+1</button><h3>Intro</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">||:</span><span class="text"> </span></span>
@@ -10671,8 +10814,10 @@
 <span class="line-segment"><span class="chord">Em</span><span class="text"> </span></span>
 <span class="line-segment"><span class="chord">|</span><span class="text"></span></span>
 </div>
-  </p><a href="#IndexYet not I but through Christ in me"><h2 class="song-title" id="Yet not I but through Christ in me">67. Yet not I but through Christ in me</h2></a>
-<h3>Verse 1</h3>
+  </p></div>
+<div id="Yet not I but through Christ in me-box">
+<a href="#IndexYet not I but through Christ in me"><h2 class="song-title" id="Yet not I but through Christ in me">67. Yet not I but through Christ in me</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Yet not I but through Christ in me-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Yet not I but through Christ in me-box', 1)">+1</button><h3>Verse 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text">What gift of </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">grace is Jesus, my Re</span></span>
@@ -10901,8 +11046,10 @@
 <span class="line-segment"><span class="chord">G</span><span class="text">in </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">me</span></span>
 </div>
-  </p><a href="#IndexZwischen Himmel und Erde"><h2 class="song-title" id="Zwischen Himmel und Erde">68. Zwischen Himmel und Erde</h2></a>
-<h3>Strophe 1</h3>
+  </p></div>
+<div id="Zwischen Himmel und Erde-box">
+<a href="#IndexZwischen Himmel und Erde"><h2 class="song-title" id="Zwischen Himmel und Erde">68. Zwischen Himmel und Erde</h2></a>
+<button class="transpose-btn" onclick="transposeSong('Zwischen Himmel und Erde-box', -1)">-1</button><button class="transpose-btn" onclick="transposeSong('Zwischen Himmel und Erde-box', 1)">+1</button><h3>Strophe 1</h3>
   <p><div class="line">
 <span class="line-segment"><span class="text"></span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">Zwischen Himmel und Erde ist ein Riss</span></span>
@@ -11029,5 +11176,6 @@
 <span class="line-segment"><span class="chord">Fm7</span><span class="text">Zwischenzeit, in dieser </span></span>
 <span class="line-segment"><span class="chord">C</span><span class="text">Zwischenzeit.</span></span>
 </div>
-  </p>    </body>
+  </p></div>
+    </body>
 </html>

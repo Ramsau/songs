@@ -231,10 +231,14 @@ class Song:
         website.write(f'<a href="#{self.title}"><h2 id="Index{self.title}">{self.number}. {self.title}</h2></a>\n')
 
     def write_website(self, website: TextIO):
+        website.write(f'<div id="{self.title}-box">\n')
         website.write(f'<a href="#Index{self.title}"><h2 class="song-title" id="{self.title}">{self.number}. {self.title}</h2></a>\n')
-
+        website.write(f'<button class="transpose-btn" onclick="transposeSong(\'{self.title}-box\', -1)">-1</button>')
+        website.write(f'<button class="transpose-btn" onclick="transposeSong(\'{self.title}-box\', 1)">+1</button>')
         for verse in self.verses:
             verse.write_website(website)
+
+        website.write('</div>\n')
 
     def __str__(self):
         return self.title
