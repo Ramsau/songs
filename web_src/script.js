@@ -81,8 +81,8 @@ function transposeNote(note, semitones) {
     return NOTE_NAMES[newIndex];
 }
 
-const chordRegex = /([A-G][#b]?)/g;
 function transposeChord(chord, semitones) {
+    const chordRegex = /([A-G][#b]?)/g;
 
     const rootNotes = chord.matchAll(chordRegex);
 

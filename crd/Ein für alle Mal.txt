@@ -1,0 +1,56 @@
+{title: Ein für alle Mal}
+{artist: Rudolf Tissen}
+{key: C}
+{tempo: 80}
+{time: 4/4}
+{ccli_license: 757948}
+{ccli: 7221151}
+{copyright: 2013 Tissen, Rudolf}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Vers 1}
+[C]Dein Sohn ist für uns ge[G/E]storben,
+[F]ein für alle Mal.
+[C]Er ist das Opfer ge[G/E]worden,
+[F]ein für alle Mal.
+[Am]Der Schuldbrief [G]ist zerissen,
+[C]jeder; der [F]glaubt, darf wissen:
+[Am]Christi Ge[G]rechtigkeit ist [C]mein![F]
+[Am]Zerissen [G]sind die Ketten,
+[C]er kam, um [F]uns zu retten:
+[Am]Für alle [G]Ewigkeiten [F]sein!
+
+{comment: Chorus}
+Ein für [C]alle Mal erlöst,
+ein für [G]alle Mal erkauft,
+ein für [Am]alle Mal
+stehn wir gerecht vor [F]dir.
+Ein für [C]alle Mal erlöst,
+ein für [G]alle Mal befreit,
+ein für [Am]alle Mal
+stehn wir gerecht vor [F]dir
+und rühmen deine Herrlich[C]keit.
+
+{comment: Vers 2}
+[C]Sein Blut für uns ver[G/E]gossen,
+[F]ein für alle Mal.
+[C]Ein neuer Bund wurd ge[G/E]schlossen,
+[F]ein für alle Mal.
+[Am]Der Vorhang [G]ist zerissen,
+[C]jeder; der [F]glaubt, darf wissen:
+[Am]In Christus [G]ist der Weg nun frei!
+[Am]Er hat die [G]Last getragen,
+[C]wurde am [F]Kreuz zerschlagen.
+[Am]Lob sie dem [G]Lamm in Ewig[F]keit!
+
+{comment: Bridge}
+Ge[Am]lobt und er[G]hoben
+bis in [C]alle Ewig[F]keit
+[F]sei mein Erlöser.
+
+{repeat: Chorus}
+
+CCLI Song # 7221151
+© 2013 Tissen, Rudolf
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 757948
