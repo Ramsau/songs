@@ -1,40 +1,47 @@
 {title: Cornerstone}
 {artist: Edward Mote, Eric Liljero, Jonas Myrin, Reuben Morgan, William Batchelder Bradbury}
-{key: G}
+{subtitle: (as published by Hillsong Music Publishing (Easter Release Version))}
+{key: C}
 {time: 4/4}
 {tempo: 71}
-{ccli_license: 534848}
+{ccli_license: 757948}
 {ccli: 6158927}
 {copyright: 2011 Hillsong MP Songs | Hillsong Music Publishing Australia | Hillsong Music Publishing UK}
-{footer: Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Intro}
+[|][C]          [|][C]          [|][Am]      [|][Am]      [|][F]         [|][G]         [|]
 
 {comment: Verse 1}
-[G]  My hope is built on nothing less
-[C9]  Than Jesus’ blood and [D]righteousness
-[Em] I dare not trust the [G]sweetest frame
-[C9]  But wholly [D]trust in
-Je - [G] sus’ Name
+[C]  My hope is built on nothing less
+[F]  Than Jesus’ blood and [G]righteousness
+[Am] I dare not trust the [Am/G]sweetest frame
+[F]  But wholly [G]trust in
+Je - [C] sus’ Name       [Csus]  [C]
 
 {comment: Chorus}
-Christ a - [C9]lone, [Em]Corner - [D]stone
-[G/B]Weak made [C9]strong in the [Em]Saviour’s [D]love
-[G]Through the [C9]storm, [Em]He is [D]Lord, Lord of [G]all
+[(C/E)]Christ a - [F]lone, [Am]Corner - [G]stone
+[C/E]Weak made [F]strong in the [Am]Saviour’s [G]love
+[C]Through the [F]storm, [Am]He is [G]Lord, Lord of [C]all
 
 {comment: Verse 2}
-[G] When darkness seems to hide His face
-[C9] I rest on His un - [D]changing grace
-[Em] In ev’ry high and [G]stormy gale
-[C9] My anchor [D]holds within [G] the veil
-[C9] My anchor [D]holds within [G] the veil
+[C] When darkness seems to hide His face
+[F] I rest on His un - [G]changing grace
+[Am] In ev’ry high and [Am/G]stormy gale
+[F] My anchor [G]holds within [C] the veil
+[F] My anchor [G]holds within [C] the veil
+
+{repeat: Chorus}
 
 {comment: Verse 3}
-[G]  When He shall come with trumpet sound
-[C9]  Oh may I then in [D]Him be found
-[Em] Dressed in His righteous - [G]ness alone
-[C9]  Faultless we [D]stand before [G] the throne
+[C]  When He shall come with trumpet sound
+[F]  Oh may I then in [G]Him be found
+[Am] Dressed in His righteous - [Am/G]ness alone
+[F]  Faultless [G]stand before [C] the throne
 
+{repeat: Chorus}
 
-CCLI-Liednummer 6158927
+CCLI Song # 6158927
 © 2011 Hillsong MP Songs | Hillsong Music Publishing Australia | Hillsong Music Publishing UK
-Nutzung ausschließlich im Rahmen der SongSelect®-Nutzungsbedingungen. Alle Rechte vorbehalten. www.ccli.com
-CCLI-Lizenznummer 534848
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 757948

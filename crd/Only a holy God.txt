@@ -33,6 +33,7 @@ Come and [G]worship the [A]Holy [Bm]God
 [Bm]What other [D]power can [G]raise the [D]dead
 [Bm]What other [D]name remains [G]unde - [D]feated
 [G]Only a [A]Holy  [D]God                       
+{repeat: Chorus}
 
 {comment: Verse 4}
 [Bm]Who else could [D]rescue me [G]from my [D]failing
@@ -40,6 +41,7 @@ Come and [G]worship the [A]Holy [Bm]God
 [Bm]Who else in - [D]vites me to [G]call Him [D]Father
 [G]Only a [A]Holy [D]God
 [G]Only a [A]Holy  [D]God                       
+{repeat: Chorus}
 
 
 CCLI Song # 7073332

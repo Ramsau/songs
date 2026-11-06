@@ -32,12 +32,14 @@ Jeder wird sich [Dsus]vor ihm beugen
 Kommt [G]öffnet ihm das Tor und bahnt den Weg dem [Am7]Herrn der [C]Herrn
 Der [Em]Gott der uns erlöst ist [Dsus]hier und setzt Gefangne [C]frei
 Denn wer kann unsern [Dsus]Gott aufhalten?
+{repeat: Chorus}
 
 {comment: Bridge}
 [Am7]Wer kann unsern [G/B]Gott aufhalten?
 [C]Wer kann unsern [Dsus]Gott aufhalten?
 [Am7]Wer kann unsern [G/B]Gott aufhalten?
 [C]Niemand hält ihn [Dsus]auf!
+{repeat: Chorus}
 
 
 CCLI-Liednummer 7062925

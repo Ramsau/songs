@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="de">
+    <head>
+        <meta charset="utf-8">
+        <style type="text/css">
+            html {
+                font-family: "Arial";
+                font-size: 30pt;
+            }
+            span.line-segment {
+                display: inline-flex;
+                flex-direction: column;
+            }
+
+            span.text {
+                white-space: pre;
+            }
+
+            span.text:empty::before {
+                content: " ";
+            }
+
+            span.chord {
+                margin-right: 0.5em;
+            }
+
+            div.line {
+                display: flex;
+                align-items: end;
+            }
+
+            a {
+                color: black;
+            }
+
+            .song-title {
+                margin-top: 50pt;
+            }
+
+            #autoscroll-box {
+                position: fixed;
+                top: 20px;
+                right: 20px;
+            }
+
+            #autoscroll-btn {
+                padding: 30px 45px;
+                font-size: 30pt;
+                background-color: #a1c9ff;
+                color: white;
+                border: none;
+                border-radius: 15px;
+                cursor: pointer;
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            }
+            #autoscroll-btn.enabled {
+                background-color: #3fea82;
+            }
+            #autoscroll-speed-control {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin-top: 10px;
+                width: 100%;
+            }
+            #autoscroll-speed-control button {
+                padding: 10px;
+                font-size: 30pt;
+                width: 60pt;
+                height: 60pt;
+                background-color: #a1c9ff;
+                color: white;
+                border: none;
+                border-radius: 100%;
+                cursor: pointer;
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            }
+            #autoscroll-speed {
+                font-size: 30pt;
+                margin: 0 5px;
+                padding: 15px 15px;
+            }
+        </style>
+        <script src="script.js"></script>
+        <title>Liederbuch</title>
+    </head>
+    <body>
+        <div id="autoscroll-box">
+            <button id="autoscroll-btn" onclick="toggleAutoscroll()">Autoscroll</button>
+            <div id="autoscroll-speed-control">
+                <button onclick="decreaseAutoscrollSpeed()">-</button>
+                <div id="autoscroll-speed">2.0</div>
+                <button onclick="increaseAutoscrollSpeed()">+</button>
+            </div>
+        </div>
+        <h1 id="Index">Index</h1>
+<% Index %>
+<% Songs %>
+    </body>
+</html>

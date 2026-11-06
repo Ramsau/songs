@@ -3,6 +3,8 @@ CHORD_START = '['
 CHORD_END = ']'
 VERSE_START = '{comment: '
 VERSE_END = '}'
+REPEAT_START = '{repeat: '
+REPEAT_END = '}'
 NOTE_NAME = 'Note'
 RELATED_SONG_NAME = "Related Song"
 
@@ -27,3 +29,4 @@ INDEX_PAGES = 3
 EVEN_PAGES = False
 PAGE_FOOTERS = "numbers"  # "numbers" | "identifiers" | "none"
 INDEX_SHOW_PAGENR = True
+REPEAT_VERSES = True

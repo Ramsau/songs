@@ -156,12 +156,26 @@ class Song:
         raw_verses = raw_verses[1:]
 
         self.verses = []
+        verse_dict = {}
         for raw_verse in raw_verses:
             if not raw_verse:
                 continue
+
+            raw_verse_and_repeats = raw_verse.split(REPEAT_START)
+            raw_verse = raw_verse_and_repeats[0]
+            repeats = raw_verse_and_repeats[1:]
+
             parts = raw_verse.split(VERSE_END + '\n', 1)
-            assert(len(parts) == 2)
-            self.verses.append(Verse(parts[0], parts[1]))
+            assert (len(parts) == 2)
+            verse = Verse(parts[0], parts[1])
+            self.verses.append(verse)
+            verse_dict[parts[0]] = verse
+
+            if REPEAT_VERSES:
+                for repeat in repeats:
+                    repeat_name = repeat.split(REPEAT_END)[0]
+                    if repeat_name in verse_dict:
+                        self.verses.append(verse_dict[repeat_name])
 
     @classmethod
     def from_file(cls, path: str, number: int):

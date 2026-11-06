@@ -28,12 +28,14 @@ Revelation Song
 [C]    Dein Licht strahlt heller [G]als die Sonne
 [D]    Lobpreis und Ehre Weisheit    [Am7]  und Macht sei dir allein
 [C]    Nur dir dem einzig wahren   [G] Gott
+{repeat: Chorus}
 
 {comment: Vers 3}
 [D]    Wenn dein Name [Am7] auch  nur erwähnt wird
 [C]    Wirkst du Wunder unter [G]uns
 [D]    Jesus in deinem Namen    [Am7]  ist die Kraft zum Leben
 [C]    Welch Geheimnis öff  - [G]net sich
+{repeat: Chorus}
 
 
 CCLI-Liednummer 5561759

@@ -28,6 +28,7 @@ Mein Blick hebt sich zu [Em]Dir und [C]sieht Du bist [G]hei  -  [D]lig
 [Em]Du sitzt [C]auf dem [D]Thron
 Für alle [Am]Zeiten bleibst [D]Du mein [Em]Gott
 [C]Herrschend auf [D]Deinem [G]Thron
+{repeat: Chorus}
 
 {comment: Bridge}
 [Em] Du bist der Einzige [C]dem dieses Lob gebührt
@@ -35,6 +36,7 @@ Für alle [Am]Zeiten bleibst [D]Du mein [Em]Gott
 [Em] Du bist der Einzige [C]dem dieses Lob gebührt
 [G]Heilig bist [Bm]Du      [G]
 
+{repeat: Chorus}
 
 CCLI-Liednummer 6059284
 © 2010 Outbreakband Musik

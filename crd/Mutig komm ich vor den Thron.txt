@@ -3,7 +3,7 @@
 [G]vor Deinem [C]Thron, mein Gott, bei [D]Dir.
 [Em]Der mich er[G]löst hat lädt mich [C]ein,
 [G]ganz nah an [C]seinem Herz zu [D]sein.
-{comment: Refrain 1}
+{comment: Pre-Chorus 1}
 Durch[G]bohrte [C]Hände
 [D]halten [Em]mich.
 [C]Ich darf bei [D]Dir sein ewig[G]lich.
@@ -12,11 +12,11 @@ Durch[G]bohrte [C]Hände
 [G]und Satan [C]flößt mir Zweifel [D]ein,
 [Em]hör ich die [G]Stimme meines [C]Herrn,
 [G]die Furcht muss [C]fliehen, denn ich bin [D]sein.
-{comment: Refrain 2}
+{comment: Pre-Chorus 2}
 Oh [G]preist den [C]Herrn,
 der [D]für mich [Em]kämpft,
 [C]und meine [D]Seele ewig [G]schützt.
-{comment: Refrain 3}
+{comment: Chorus}
 [Em]Mutig komm ich [C]vor den [D]Thron,
 [Em]freigesprochen [C]durch den [D]Sohn.
 [G]Dein Blut mach mich [C]rein,
@@ -27,13 +27,15 @@ in [C]Deinen Armen [D]darf ich [G]sein.
 [G]der alle [C]Schönheit über[D]trifft.
 [Em]Die Liebe [G]in Person ist [C]hier,
 [G]gerecht und [C]treu steht er zu [D]mir.
-{comment: Refrain 4}
+{comment: Pre-Chorus 3}
 All [G]unser [C]Lob
 reicht [D]niemals [Em]aus,
 [C]ihn so zu [D]ehrn, wie's ihm ge[G]bührt.
+{repeat: Chorus}
 {comment: Bridge}
 Das ist der [C]Grund, wa[G]rum wir [D]feiern,
 wir sind [C]befreit, er [G]trug das Ur[D]teil.
 [C]Preist den [G]Herrn,
 [D]preist den [Em]Herrn,
 er [C]hat für meine [D]Schuld [G]bezahlt.
+{repeat: Chorus}

@@ -36,10 +36,12 @@ Safe to [C2]shore    [G]      [D]    safe to [G]shore
 [G]My God's love will [C2]lead me [G]through
 [C2] You are the [G/B]peace in my [Dsus]troubled [G]sea whoa oh
 [C2] You are the [G/B]peace in my [Dsus]troubled [G]sea
+{repeat: Chorus}
 
 {comment: Bridge}
 [C2] Fire be - [G]fore us  [Em7] You're the [D]brightest
 [C2] You will [G]lead us  [Em7]through the [D]storms
+{repeat: Chorus}
 
 
 CCLI-Liednummer 7002032

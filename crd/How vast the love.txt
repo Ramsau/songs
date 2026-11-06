@@ -26,6 +26,7 @@ Oh, how [Am7]vast His love for [G] us    [G]
 {comment: Verse 3}
 So [C]lift your eyes to Jesus, a - [Am7]rise from [G]doubt and [F]shame
 His [C]blood cries "It is finished!" Our [Am7]life is in His [Gsus]Name
+{repeat: Chorus}
 
 {comment: Verse 4}
 What [C]now can separate us?   Can [F2(no3)]death or pain or fear?
@@ -34,6 +35,7 @@ We [C]have this strong assurance, in [F2(no3)]Christ we've been brought near
 {comment: Verse 5}
 And [C]in His [Dm]strength we'll [F]labor, His [Am]promis - [G]es our [F]hope
 Thus [C]far His [Dm]love has [F]led us! His [Am7]love will [F]lead us [G]home!
+{repeat: Chorus}
 
 
 CCLI-Liednummer 7138111

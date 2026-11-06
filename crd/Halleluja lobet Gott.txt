@@ -15,9 +15,11 @@ Halle[G]lu[Am]ja
 [C]Lobet ihn mit [F]Psaltern und mit [C]Har[G]fen
 [C]Lobet ihn mit [F]Pauken und mit [C]Rei[G]gen
 [C]Lobet in mit [F]Saiten und mit [C]Pfei[G]fen
+{repeat: Refrain}
 
 {comment: Vers 3}
 [C]Lobet ihn mit [F]hellen Zimbeln, [C]lobet [G]ihn
 [C]Lobet ihn mit [F]wohlklingenden [C]Zim[G]beln
 [C]Lobet ihn für [F]seine Taten, [C]lobet [G]ihn
 [C]Lobet ihn in [F]seiner großen [C]Herrlich[G]keit
+{repeat: Refrain}

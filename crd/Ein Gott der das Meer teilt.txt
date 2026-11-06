@@ -32,6 +32,7 @@ Keiner [Dm]glaubte mehr daran, dass ihn ein [Bb]Wunder retten kann
 [F]Denn er lag vier Tage schon im [Am7]Grab
 Doch du riefst, [Bb]Lazarus steh auf, komm aus [Gm]deiner Höhle raus
 Und [F]wenn du sprichst werden Wunder [C]wahr
+{repeat: Chorus}
 
 {comment: Instrumental}
 [|][Bb]           [|][C]            [|][Dm]            [|][Am]           [|] 
@@ -44,6 +45,7 @@ Un - [Dm]möglich ist keine Option, Un - [Am]möglich ist keine Option
 Mein Gott re - [Bb]giert, er ist immer noch auf dem [C]Thron
 Und Ausweglosig - [Dm]keit ist immer noch keine Op - [Am]tion
 
+{repeat: Chorus}
 
 CCLI Song # 7205429
 © 2022 Gerth Medien

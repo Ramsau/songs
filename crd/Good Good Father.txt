@@ -20,6 +20,8 @@ It's who I [G/B]am, it's who I [Am7]am, it's who I [D]am
 for answers only you provide
 [C2]Because You [G/B]know
 just what [Am7]we need before we say a word
+{repeat: Refrain}
+
 {comment: Bridge}
 [C2]You are perfect in all [Em]of your ways
 [Am7]You are perfect in all [G]of your ways
@@ -31,3 +33,4 @@ As You [C2]call me [G/B]deeper still
 As You [Am7]call me [G/B]deeper still
 As You [C2]call me [G/B]deeper still
 Into [Am7]love love [D]love
+{repeat: Refrain}

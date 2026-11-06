@@ -28,6 +28,8 @@ The battle be  -  [A]longs to [D]You
 [D]  When all I see are the ashes, You see the [G2]beauty
 [Bm7]  When all I see is a cross, God, You [Asus]see the emp  [D]- ty tomb
 
+{repeat: Chorus}
+
 {comment: Bridge}
 [G]  (An) Almighty [D]Fortress, You go be - [Asus]fore us
 Nothing can [Bm7]stand against the [Asus]power of our [G]God
@@ -35,6 +37,7 @@ Nothing can [Bm7]stand against the [Asus]power of our [G]God
 Nothing can [Bm7]stand against the [Asus]power
 Of our [G]God
 
+{repeat: Chorus}
 
 
 CCLI Song # 7148126

@@ -28,10 +28,12 @@ Auf [G]jedem noch so [Am]schweren [Em]Weg schau [C]ich auf das was [D]nie ver - 
 {comment: Vers 3}
 Ich [G]weiß ich bin nur [Am]zu Be - [Em]such denn [C]wahre Heimat [D]gibst nur [Em]du
 Als [G]Bürger deines [Am]Himmel - [Em]reichs werd [C]ich für immer [D]bei dir [G]sein
+{repeat: Chorus}
 
 {comment: Vers 4}
 Mit [G]Fokus auf die [Am]Ewig - [Em]keit leb [C]ich für das was [D]ewig [Em]bleibt
 Das [G]Ziel vor Augen [Am]Tag für [Em]Tag bis [C]ich den Lauf voll - [D]endet [G]hab
+{repeat: Chorus}
 
 {comment: Schluss}
 Ich [Am]werd dir gegen - [D]über [G]stehn

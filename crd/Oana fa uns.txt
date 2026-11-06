@@ -14,12 +14,12 @@ Vielleicht [Am]hättst durch eam [F]Gott gseng,
 Und wenn [Am]Jesus [F]bet hätt,
 [C]woa wirklich Got[G]tes Nähe [Am]spürbar [F]nah.
 
-{comment: Bridge}
+{comment: Pre-Chorus}
 Und [Am]ja, ja, [F]Gott is [C]groß.
 [Am]Ja, Ja, [F]Gott is [C]guad.
 Ja, [Am]Ja, Ja, [F]Ja, [C]Ja...
 
-{comment: Refrain 1}
+{comment: Chorus 1}
 Awa [Am]Gott woa [F]oana [C]fa [G]uns.
 So a [Am]Mensch wia [F]oana [C]fa [G]uns.
 Er hat [Am]glebt, [F]glacht, gread und [C]gred
@@ -43,7 +43,10 @@ und hat [C]eam zua[G]ghead.
 Er hat die [Am]Sünd beim [F]Nam gnennt,
 [C]Doch jeder [G]Sünder war [Am]eam [F]olles wert.
 
-{comment: Refrain 2}
+{repeat: Pre-Chorus}
+{repeat: Chorus 1}
+
+{comment: Chorus 2}
 Gott wird [Am]Mensch wia [F]oana [C]fa [G]uns.
 Hat uns [Am]liab wia [F]koana [C][G]sunst.
 Will [Am]vergebn [F]und Leben [C]gem

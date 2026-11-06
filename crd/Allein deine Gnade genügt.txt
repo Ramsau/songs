@@ -20,12 +20,14 @@ Ich [F]muss mich nicht [G/F]länger um [Em7]Liebe be - [Am]mühn
 Ich [F]ruh' im Ver - [G/F]trauen zu [Em7]Dir      [Am]
 Du [F]hast meine [G/F]Sünde ge - [Em7]tilgt durch Dein [Am]Blut
 Und [D]Gnade ist [D9]für mich ge - [F/G]nug      [G]
+{repeat: Chorus}
 
 {comment: Vers 2}
 Das [F]Blut Jesu [G/F]läßt mich ge - [Em7]recht vor Dir [Am]stehn
 Es [F]hat alle [G/F]Schuld ge - [Em7]sühnt      [Am]
 Die [F]Gnade hat [G/F]über Ge - [Em7]richt trium - [Am]phiert
 Und [D]nun bin ich [D9]frei in [F/G]Dir      [G]
+{repeat: Chorus}
 
 
 CCLI-Liednummer 5282557

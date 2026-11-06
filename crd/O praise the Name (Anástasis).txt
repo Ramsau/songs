@@ -24,7 +24,7 @@ They laid Him [D(4)]down in Jo - [Em]seph's tomb
 The entrance [C2(no3)]sealed by heavy [G]stone 
 Messiah [D(4)]still and all a  [G]-  lone 
 
-{comment: Chorus 1a}
+{comment: Chorus 1}
 O [G]praise the Name of the [C]Lord our [G]God 
 O [Em]praise His Name for - [Dsus]ever - [D]more 
 For [G/B]endless days we will [C]sing Your [Em]praise 
@@ -35,6 +35,7 @@ Then on the [G]third at break of dawn
 The Son of [D(4)]heaven rose [Em]again 
 O trampled [C]death where is [G]your sting 
 The angels [Dsus]roar [D]for Christ [G]the King    [Gsus]
+{repeat: Chorus 1}
 
 {comment: Verse 4}
 He shall re - [G]turn in robes of white 
@@ -42,7 +43,7 @@ The blazing [D(4)]sun shall pierce the [Em] night
 And I will [C]rise among the [G]saints 
 My gaze [D5]transfixed on Jesus' [G] face 
 
-{comment: Chorus 1b}
+{comment: Chorus 2}
 O [G]praise the Name of the [C6]Lord our [G]God 
 O [Em]praise His Name for - [Dsus]ever - [D]more 
 For [G/B]endless days we will [C6]sing Your [Em]praise 

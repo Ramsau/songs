@@ -1,0 +1,37 @@
+{title: Agnus Dei}
+{artist: Michael W. Smith}
+{key: G}
+{time: 4/4}
+{tempo: 66 BPM}
+{ccli_license: 757948}
+{ccli: 626713}
+{copyright: 1990 Sony/ATV Milene Music}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Verse}
+[G]Alle - [C/G]lu   [G]-  ia
+[G]Alle - [C/G]lu    [D/G]-    [C/G]ia
+For the [D/G]Lord   God   Al - [C/G]mighty    [G]reigns
+
+[G]Alle - [C/G]lu   [G]-  ia
+[G]Alle - [C/G]lu    [D/G]-    [C/G]ia
+For the [D/G]Lord   God   Al - [C/G]mighty    [G]reigns
+
+[G]Alle - [C/G]lu    [D/G]-    [C/G]ia
+
+{comment: Chorus}
+H[(D)]o[G]ly      [D/G]ho - [G]ly
+Are You [C/G]Lord   [G]God Al - [Em]might - [D]y
+[Am]Worthy is the [C]Lamb    [Am]worthy is the [C]Lamb
+
+You are [D]ho - [G]ly      [D/G]ho - [G]ly
+Are You [C/G]Lord   [G]God Al - [Em]might - [D]y
+[Am]Worthy is the [C]Lamb    [Am]worthy is the [C]Lamb (To Chorus)
+
+[C]A     [D]-     [G]men
+
+
+CCLI Song # 626713
+© 1990 Sony/ATV Milene Music
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 757948

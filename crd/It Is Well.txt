@@ -1,0 +1,34 @@
+{title: It Is Well}
+
+{comment: Intro}
+[G]
+
+{comment: Verse 1}
+When [G]peace like a [Em]river at - [C]ten - [D]deth my [G]way
+When [Em]sorrows like [A]sea billows [D]roll
+What - [G]ever my [C]lot, Thou hast [A]taught me to [D]say
+It is [G]well, it is [C]well [D]with my [G]soul
+
+{comment: Chorus}
+It is [G]well [D](it is [C]well)
+With my [G]soul [D](with my [G]soul)
+It is [C]well, it is [G]well [D]with my [G]soul
+
+{comment: Verse 2}
+Though [G]Satan should [Em]buffet, though [C]tri - [D]als should [G]come
+Let this [Em]blest as - [A]surance con - [D]trol
+That [G]Christ has re - [C]garded my [A]helpless es - [D]tate
+And has [G]shed His own [C]blood [D]for my [G]soul
+{repeat: Chorus}
+{comment: Verse 3}
+My [G]sin -O, the [Em]bliss of this [C]glo - [D]rious [G]thought-
+My [Em]sin, not in [A]part, but the [D]whole
+Is [G]nailed to the [C]cross and I [A]bear it no [D]more
+Praise the [G]Lord, praise the [C]Lord, [D]O my [G]soul
+{repeat: Chorus}
+{comment: Verse 4}
+And, [G]Lord haste the [Em]day when the [C]faith [D]shall be [G]sight
+The [Em]clouds be rolled [A]back as a [D]scroll
+The [G]trump shall re - [C]sound and the [A]Lord shall des - [D]cend
+Even [G]so it is [C]well [D]with my [G]soul
+{repeat: Chorus}

@@ -14,7 +14,7 @@
 [Em]I could [D/F#]never   [G]keep my [C]hold through life's [B]fearful [Em]path
 [Em]For my [D/F#]love is [G/B]often   [C]cold He must [D]hold me [G]fast
 
-{comment: Chorus    (2/2)}
+{comment: Chorus}
 [C]He will [D]hold me [Em]fast
 [Em]He will [D/F#]hold me [G]fast
 [G]For my [Am7]Savior [G/B]loves me [C]so
@@ -25,12 +25,14 @@
 [G]Precious in His [G/B]holy   [C]sight He will [D]hold me [G]fast
 [Em]He'll not [D/F#]let my [G]soul be [C]lost His Promis - [B]es shall [Em]last
 [Em]Bought by [D/F#]Him at [G/B]such a [C]cost He will [D]hold me [G]fast
+{repeat: Chorus}
 
 {comment: Verse 3}
 [Em9]For my life He bled and [C]died [C/E]Christ will [D/F#]hold me [G]fast
 [Em9]Justice has been satis - [C]fied He will [D]hold me [G]fast
 [Em]Raised with [D/F#]Him to [G/B]endless [C]life He will [B]hold me [Em]fast
 [Em]Till our [D/F#]faith is [G/B]turned to [C]sight when He [D]comes at [G]last
+{repeat: Chorus}
 
 
 CCLI-Liednummer 7016161

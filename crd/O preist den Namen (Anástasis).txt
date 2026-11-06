@@ -24,7 +24,7 @@ In Josephs [D(4)]Grab wurd er [Em]gelegt
 Die Tür ver - [C2(no3)]sperrt mit schwerem [G]Stein
 Messias [D(4)]ist nur er al  [G]-  lein
 
-{comment: Chorus 1A}
+{comment: Chorus 1}
 O [G]preist den Namen von [C]Gott dem [G]Herrn
 O [Em]preist den Namen [Dsus]ewig - [D]lich
 Für [G/B]alle Zeit singen [C]wir zu [Em]dir
@@ -35,6 +35,7 @@ Am dritten [G]Tag im Morgenrot
 Erhob er [D(4)]sich als Got - [Em]tes Sohn
 Die Macht des [C]Todes ist be - [G]siegt
 Der König [Dsus]Chris - [D]tus tri - [G]umphiert    [Gsus]
+{repeat: Chorus 1}
 
 {comment: Vers 4}
 Er kommt zu - [G]rück in heller Pracht
@@ -42,7 +43,7 @@ Sein Sonnen - [D(4)]glanz durchdringt die [Em] Nacht
 Wie er werd ich [C]nun aufer - [G]stehn
 Um Jesus [D5]selbst einmal zu [G] sehn
 
-{comment: Chorus 1B}
+{comment: Chorus 2}
 O [G]preist den Namen von [C6]Gott dem [G]Herrn
 O [Em]preist den Namen [Dsus]ewig - [D]lich
 Für [G/B]alle Zeit singen [C6]wir zu [Em]dir

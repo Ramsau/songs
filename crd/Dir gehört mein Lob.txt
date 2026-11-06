@@ -42,9 +42,13 @@ Es das [A]Leben gut [E]mit mir meint, dir [D]gehört mein Lob
 [A]   Und dir ge - [E]hört mein Lob wenn der [F#m7]Weg auch nicht [D]einfach ist
 Sich mein [A]Lobpreis mit [E]Leiden mischt, dir [D]gehört mein Lob
 
+{repeat: Pre-Chorus}
+{repeat: Chorus}
+
 {comment: Bridge}
 E - [A]gal was du mir [E]gibst,     e - [F#m7]gal was du mir [D]nimmst
 Du [A]bist und bleibst mein [E]Gott,     nur [F#m7]dir gehört mein [D]Lob
+{repeat: Chorus}
 
 
 CCLI-Liednummer 5298170

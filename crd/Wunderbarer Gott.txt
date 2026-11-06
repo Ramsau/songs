@@ -1,0 +1,55 @@
+{title: Wunderbarer Gott}
+{artist: Timo Langner}
+{key: G}
+{tempo: 63}
+{time: 4/4}  
+{ccli_license: 757948}
+{ccli: 7116299}
+{copyright: 2018 DMMK}
+{footer: For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com}
+
+{comment: Intro}
+[||:] [Cmaj7]            [|] [G]            [|] [Cmaj7]            [|] [G]            [:||] 
+
+{comment: Vers 1}
+Du bist ein [Cmaj7]wunderbarer [G]Gott
+Du bist mein [Cmaj7]Hirte und mein [G]Tröster
+Du bist ein [Cmaj7]wunderbarer [G]Freund
+Du bist mein [Cmaj7]Heiler, mein Er - [G]löser
+
+{comment: Pre-Chorus}
+Wir [Em]zwei gehören zu - [C]sammen
+Mit [G]jedem Schritt zum Kreuz hast du ge - [D]zeigt
+Du bist zum [Em]Äußersten bereit
+Hast mich aus [C]Feindeshand befreit und ich [D]weiß
+
+{comment: Chorus}
+(Ein) wunderbarer [G]Gott bist du
+Ich sing zu dir ich [C]ruf dir zu
+Heilig schön und [Em]königlich
+Wunderbar bist [D]du
+Wunderbarer [G]Gott, ich weiß
+Das ganze Uni - [C]versum preist
+Die Größe deiner [Em]Herrlichkeit
+Wunderbar bist [D]du (z. Ch.)
+Wunderbar bist [Cmaj7]  du
+
+{comment: Instrumental 1}
+[|][Cmaj7]        [|][Cmaj7]        [|][Em]           [|][Em]           [|]
+
+{comment: Vers 2}
+Du bist mein [Cmaj7]wunderbarer [G]Jesus
+Du bist der [Cmaj7]Fels auf den ich [G]bau
+Du bist ein [Cmaj7]wunderbarer [G]König
+Dem ich mein [Cmaj7]Leben anver - [G]trau'
+{repeat: Pre-Chorus}
+{repeat: Chorus}
+
+{comment: Instrumental 2}
+[||:][Cmaj7]        [|][Cmaj7]        [|][Em]           [|][Em]           [:||][Em]           [|]
+
+
+CCLI Song # 7116299
+© 2018 DMMK
+For use solely with the SongSelect® Terms of Use. All rights reserved. www.ccli.com
+CCLI License # 757948

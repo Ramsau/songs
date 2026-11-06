@@ -15,7 +15,7 @@
 [A] I hear Your invi - [Bm7(4)]tation        [F#m7]    to let it all [D2]go
 I see it [A]now I'm laying it [Bm7(4)]down and I know that [F#m7]I    [E(4)]need    [D2]You
 
-{comment: Chorus}
+{comment: Chorus 1}
 I run to the [A]Father I fall into [Bm7(4)]grace
 I'm done with the [F#m7]hiding no reason to [D2]wait
 My heart needs a [A]surgeon my soul needs a [Bm7(4)]friend
@@ -30,6 +30,7 @@ And again and a - [A]gain
 [A]  Your Son for re - [Bm7(4)]demption        [F#m7]    the price for my [D2]heart
 [A]  I don't have a [Bm7(4)]context        [F#m7]    for that kind of [D2]love
 I don't under - [A]stand I can't compre - [Bm7(4)]hend all I know is [F#m7]I    [E(4)]need    [D2]You
+{repeat: Chorus 1}
 
 {comment: Bridge}
 My heart has been [F#m7]in Your [D2]sights long before [A/C#]my first [E(4)]breath
@@ -37,7 +38,7 @@ Running in - [F#m7]to Your [D2]arms is running to [A/C#]life from [E(4)]death
 I feel this [F#m7]rush deep in my [D2]chest Your mercy is [A/C#]calling    [E(4)]out
 Just as I [F#m7]am You pull me [D2]in and I know I [A/C#]need You [E(4)]now
 
-{comment: Chorus}
+{comment: Chorus 2}
 I run to the [A]Father I fall into [Bm7(4)]grace
 I'm done with the [F#m7]hiding no reason to [D2]wait
 My heart found a [A]surgeon my soul found a [Bm7(4)]friend

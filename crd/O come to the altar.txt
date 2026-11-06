@@ -32,6 +32,7 @@ Do you [F]thirst for a drink from the [Am]well? Jesus is [F]calling
 Come to - [F]day there's no reason to [Am]wait, Jesus is [F]calling 
 [C]  Bring your [F]sorrows and trade them for [C]joy 
 From the [F]ashes a new life is [Am]born, Jesus is [F]calling 
+{repeat: Chorus}
 
 {comment: Instrumental 2}
 [|] [C]         [|] [C]         [|] [Am]       [|] [Am]       [|] [F]         [|] [F]         [|] 
@@ -41,6 +42,7 @@ Oh what a [C]Savior, isn't He [Am]wonderful
 Sing alle - [F]luia, Christ is risen [C]
 Bow down be - [C]fore Him, for He is [Am]Lord of all 
 Sing alle - [F]luia, Christ is risen [C]
+{repeat: Chorus}
 
 {comment: Instrumental 3}
 [||:] [C]         [|] [Dm]     [|] [Am]     [|] [F]         [:||]
